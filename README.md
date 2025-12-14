@@ -1,3 +1,11 @@
+## 🔄 Changelog
+
+### v1.1
+- Perbaikan typo dan spasi
+- Penyelarasan istilah terjemahan
+- Perbaikan kecil pada teks menu
+
+
 Indonesian Translate for **Pingus**.
 
 ## 📌 Informasi (Bahasa Indonesia)
@@ -144,3 +152,4 @@ All game rights belong to the original **Pingus** developers.
 
 
 ⭐ If you find this useful, feel free to give a star or feedback!
+
