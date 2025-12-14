@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: pingus\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-12-24 22:39+0100\n"
-"PO-Revision-Date: 2025-12-13 17:00+0700\n"
+"PO-Revision-Date: 2025-12-14 09:07+0700\n"
 "Last-Translator: Сергій Дубик <dubyk@library.lviv.ua>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "Language: uk\n"
@@ -24,7 +24,7 @@ msgstr "Screenshot: Simpan screenshot ke: "
 
 #: src/engine/display/screenshot.cpp:39
 msgid "Screenshot: Screenshot is done."
-msgstr "Screenshot: Screenshot selesao."
+msgstr "Screenshot: Screenshot selesai."
 
 #: src/engine/display/screenshot.cpp:124 src/engine/display/screenshot.cpp:152
 msgid "Screenshot: Couldn't write file: "
@@ -32,7 +32,7 @@ msgstr "Screenshot: Tidak bisa mengetik file: "
 
 #: src/editor/editor_screen.cpp:230
 msgid "== Editor Help =="
-msgstr "== Довідка з редагування =="
+msgstr ""
 
 #: src/editor/editor_screen.cpp:248
 msgid ""
@@ -116,11 +116,11 @@ msgstr ""
 
 #: src/editor/file_dialog.cpp:58
 msgid "Datadir"
-msgstr "Тека даних"
+msgstr ""
 
 #: src/editor/file_dialog.cpp:60
 msgid "Userdir"
-msgstr "Користувацька тека"
+msgstr ""
 
 #: src/editor/file_dialog.cpp:63
 msgid "Open"
@@ -144,23 +144,23 @@ msgstr "Nama path"
 
 #: src/editor/file_dialog.cpp:98
 msgid "Open a level"
-msgstr "Відкрити рівень"
+msgstr "Buka level mu"
 
 #: src/editor/file_dialog.cpp:98
 msgid "Save your level"
-msgstr "Зберегти Ваш рівень"
+msgstr "Simpan level mu"
 
 #: src/editor/panel.cpp:171
 msgid "New level"
-msgstr "Новий рівень"
+msgstr "Level baru"
 
 #: src/editor/panel.cpp:173
 msgid "Open level..."
-msgstr "Відкрити рівень…"
+msgstr "Buka level"
 
 #: src/editor/panel.cpp:175
 msgid "Save level..."
-msgstr "Зберегти рівень…"
+msgstr "Simpan level"
 
 #: src/editor/panel.cpp:177
 msgid "Save level as..."
@@ -168,7 +168,7 @@ msgstr "Save level sebagai"
 
 #: src/editor/panel.cpp:180
 msgid "Play level..."
-msgstr "Гратися на рівні…"
+msgstr "Mainkan level"
 
 #: src/editor/panel.cpp:183
 msgid "Configure actions"
@@ -188,7 +188,7 @@ msgstr "Tampilkan jendela penambahan objek"
 
 #: src/editor/panel.cpp:191
 msgid "Show minimap"
-msgstr ""
+msgstr "Perlihatkan minimap"
 
 #: src/editor/panel.cpp:194
 msgid "Duplicate the selected objects"
@@ -337,7 +337,7 @@ msgstr "Arah"
 
 #: src/editor/object_properties.cpp:110
 msgid "Left"
-msgstr "Лівий"
+msgstr "Kiri"
 
 #: src/editor/object_properties.cpp:111
 msgid "Misc"
@@ -345,7 +345,7 @@ msgstr "Berbagai macam"
 
 #: src/editor/object_properties.cpp:112
 msgid "Right"
-msgstr "Правий"
+msgstr "Kanan"
 
 #: src/editor/object_properties.cpp:117
 msgid "ReleaseRate:"
@@ -401,7 +401,7 @@ msgstr "Id:"
 
 #: src/editor/object_properties.cpp:215
 msgid "Target Id:"
-msgstr ""
+msgstr "Id Target"
 
 #: src/editor/object_properties.cpp:220
 msgid "Height:"
@@ -453,7 +453,7 @@ msgstr "Aktifkan output log tingkat debug"
 
 #: src/pingus/pingus_main.cpp:185
 msgid "Disable all log output"
-msgstr "Non-aktifkan semua log output"
+msgstr "Matikan semua log output"
 
 #: src/pingus/pingus_main.cpp:187
 msgid "Display Options:"
@@ -461,11 +461,11 @@ msgstr "Opsi Tampilan:"
 
 #: src/pingus/pingus_main.cpp:189
 msgid "Start in Window Mode"
-msgstr ""
+msgstr "Jalankan di mode jendela"
 
 #: src/pingus/pingus_main.cpp:191
 msgid "Start in Fullscreen"
-msgstr ""
+msgstr "Jalankan di mode layer penuh"
 
 #: src/pingus/pingus_main.cpp:193
 msgid "Use the given renderer (default: sdl)"
@@ -542,7 +542,7 @@ msgstr "Muat modifikasi game dari folder DIR"
 
 #: src/pingus/pingus_main.cpp:231
 msgid "Don't read ~/.pingus/config"
-msgstr ""
+msgstr "Jangan baca ~/.pingus/config"
 
 #: src/pingus/pingus_main.cpp:232
 msgid "FILE"
@@ -590,12 +590,12 @@ msgstr "Pingus: Lemparan tak dikenal tertangkap!"
 
 #: src/pingus/game_time.cpp:29
 msgid "unlimited"
-msgstr ""
+msgstr "Tak terbatas"
 
 #: src/pingus/actions/bridger.cpp:38 src/pingus/actions/bridger.cpp:196
 #: src/pingus/action_name.cpp:32
 msgid "Bridger"
-msgstr ""
+msgstr "Jembatan"
 
 #: src/pingus/screens/start_screen.cpp:67
 msgid "Play"
@@ -619,19 +619,19 @@ msgstr "Waktu:"
 
 #: src/pingus/screens/start_screen.cpp:178
 msgid "Author: "
-msgstr ""
+msgstr "Pencipta"
 
 #: src/pingus/screens/addon_menu.cpp:53 src/pingus/screens/option_menu.cpp:336
 msgid "Close"
-msgstr ""
+msgstr "Tutup"
 
 #: src/pingus/screens/pingus_menu.cpp:54
 msgid "Story"
-msgstr ""
+msgstr "Cerita"
 
 #: src/pingus/screens/pingus_menu.cpp:55
 msgid "..:: Start the game ::.."
-msgstr ""
+msgstr "Mulai permainan"
 
 #: src/pingus/screens/pingus_menu.cpp:59
 msgid "Editor"
@@ -686,7 +686,7 @@ msgstr ""
 #: src/pingus/screens/story_screen.cpp:108
 #: src/pingus/screens/story_screen.cpp:114
 msgid "skip"
-msgstr ""
+msgstr "Lewati"
 
 #: src/pingus/screens/option_menu.cpp:208
 msgid "Fullscreen"
@@ -702,7 +702,7 @@ msgstr ""
 
 #: src/pingus/screens/option_menu.cpp:212
 msgid "Autoscrolling"
-msgstr ""
+msgstr "Scrolling otomatis"
 
 #: src/pingus/screens/option_menu.cpp:213
 msgid "Drag&Drop Scrolling"
@@ -784,7 +784,7 @@ msgstr "Tidak semua orang selamat, Tapi ya not bad lah."
 
 #: src/pingus/screens/result_screen.cpp:209
 msgid "What can I say, you made it - congratulations!"
-msgstr "Wow, you made it - Congrats!"
+msgstr "Kamu berhasil melakukannya - Selamat!"
 
 #: src/pingus/screens/result_screen.cpp:214
 msgid "You killed everybody, not good."
@@ -792,23 +792,26 @@ msgstr "Kamu membunuh semuanya, itu tidak baik loh."
 
 #: src/pingus/screens/result_screen.cpp:216
 msgid "No-one got saved - I know you can do better."
-msgstr "Tidak ada yang selamat - but i know you can do better someday. "
+msgstr ""
+"Tidak ada yang selamat - Aku tau kamu bisa melakukannya lebih baik lagi, "
+"semangat!"
 
 #: src/pingus/screens/result_screen.cpp:218
 msgid ""
 "You didn't save enough, but you saved a few.  Next\n"
 "time you might do better."
 msgstr ""
-"Tabungan mu tidak cukup, Atleast kamu sedikit. Don't mind\n"
+"Penyelamatan tidak cukup, Setidaknya kamu menyelamatkannya beberapa. "
+"Selanjutnya\n"
 "Lain kali pasti bisa lebih baik."
 
 #: src/pingus/screens/result_screen.cpp:221
 msgid "Only one more and you would have made it - try again!"
-msgstr "Sekali lagi dan kamu akan berhasil - Nice Try!"
+msgstr "Sekali lagi dan kamu akan berhasil - Berusaha lagi!"
 
 #: src/pingus/screens/result_screen.cpp:223
 msgid "Only a handful more and you would have made it - try again!"
-msgstr "Dikit lagi dan kamu hampir berhasil - Good Luck!"
+msgstr "Dikit lagi dan kamu hampir berhasil - Semoga beruntung!"
 
 #: src/pingus/screens/result_screen.cpp:225
 msgid "Better luck next time!"
@@ -832,15 +835,15 @@ msgstr "Malaikat"
 
 #: src/pingus/action_name.cpp:28
 msgid "Basher"
-msgstr "Pemukul"
+msgstr ""
 
 #: src/pingus/action_name.cpp:29
 msgid "Blocker"
-msgstr "Pemblokir"
+msgstr ""
 
 #: src/pingus/action_name.cpp:30
 msgid "Boarder"
-msgstr "Penumpang"
+msgstr ""
 
 #: src/pingus/action_name.cpp:31
 msgid "Bomber"
@@ -848,7 +851,7 @@ msgstr ""
 
 #: src/pingus/action_name.cpp:33
 msgid "Climber"
-msgstr "Pendaki"
+msgstr ""
 
 #: src/pingus/action_name.cpp:34
 msgid "Digger"
@@ -913,7 +916,7 @@ msgstr "pejalan kaki"
 #: src/pingus/components/pingus_counter.cpp:43
 #, c-format, boost-format
 msgid "Released:%3d/%d   Out:%3d   Saved:%3d/%d"
-msgstr ""
+msgstr "Diterbitkan:%3d/%d   Keluar:%3d   Diselamatkan:%3d/%d"
 
 #: src/pingus/worldmap/level_dot.cpp:134
 msgid "???"
@@ -941,7 +944,7 @@ msgstr ""
 "Sama seperti aksi Digger yang sudah Anda kenal dari level sebelumnya, ada "
 "juga aksi yang memungkinkan Pingus menggali secara horizontal, berbeda "
 "dengan kemampuan menggali vertikal yang disediakan oleh aksi Digger. Aksi "
-"baru ini disebut Basher. "
+"baru ini disebut Pemukul. "
 
 #: data/levels/tutorial/bomber-tutorial2-grumbel.pingus:5
 msgid "Sacrifice a few and save the rest"
@@ -1016,7 +1019,7 @@ msgid ""
 msgstr ""
 "Aksi lain muncul di jalan - aksi menggali, kali ini secara diagonal. Aksi "
 "ini memungkinkan Pingu menggali secara diagonal melalui tanah, sehingga "
-"menciptakan jalur bagi Pingus yang mengikuti. Aksi ini disebut Miner."
+"menciptakan jalur bagi Pingus yang mengikuti. Aksi ini disebut Menggali."
 
 #: data/levels/tutorial/snow10-grumbel.pingus:5
 msgid "Panic Island (float/bash)"
@@ -1167,7 +1170,7 @@ msgstr ""
 
 #: data/levels/tutorial/snow22-grumbel.pingus:5
 msgid "Entrance high, Exit low"
-msgstr ""
+msgstr "Masuk tinggi, Keluar rendah"
 
 #: data/levels/tutorial/snow22-grumbel.pingus:6
 msgid ""
@@ -2170,7 +2173,7 @@ msgstr ""
 
 #: data/levels/factorycampaign/factory_campaign3.pingus:5
 msgid "The Cave"
-msgstr "Gua"
+msgstr "Goa"
 
 #: data/levels/factorycampaign/factory_campaign3.pingus:6
 msgid ""
@@ -2212,7 +2215,7 @@ msgstr ""
 
 #: data/levels/factorycampaign/factory_campaign6.pingus:5
 msgid "Egypt - So easy"
-msgstr ""
+msgstr "Mesir - Mudah"
 
 #: data/levels/factorycampaign/factory_campaign6.pingus:6
 msgid "Pingus reached Egypt. Looks easy, but is it really so easy? Try it out."
@@ -2222,7 +2225,7 @@ msgstr ""
 
 #: data/levels/factorycampaign/factory_campaign7.pingus:5
 msgid "Egypt - Oasis"
-msgstr ""
+msgstr "Mesir - Oasis"
 
 #: data/levels/factorycampaign/factory_campaign7.pingus:6
 msgid ""
@@ -2234,7 +2237,7 @@ msgstr ""
 
 #: data/levels/factorycampaign/factory_campaign8.pingus:5
 msgid "Egypt - The Maze"
-msgstr "Egypt - Labirin"
+msgstr "Mesir - Labirin"
 
 #: data/levels/factorycampaign/factory_campaign8.pingus:6
 msgid ""
@@ -2245,7 +2248,7 @@ msgstr ""
 
 #: data/levels/factorycampaign/factory_campaign9.pingus:5
 msgid "Egypt - Pyramids"
-msgstr ""
+msgstr "Mesir - Piramida"
 
 #: data/levels/factorycampaign/factory_campaign9.pingus:6
 msgid ""
@@ -2403,7 +2406,7 @@ msgstr ""
 
 #: data/worldmaps/tutorial.worldmap:4
 msgid "Tutorial Island"
-msgstr ""
+msgstr "Pulau tutorial"
 
 #: data/worldmaps/tutorial.worldmap:6
 msgid "Learn the basics"
@@ -2411,11 +2414,11 @@ msgstr "Pelajari dasar-dasarnya"
 
 #: data/worldmaps/tutorial.worldmap:124
 msgid "Watch Ending"
-msgstr ""
+msgstr "Tonton penutupan"
 
 #: data/worldmaps/tutorial.worldmap:131
 msgid "Watch Intro"
-msgstr ""
+msgstr "Tonton pembukaan"
 
 #: data/stories/tutorial_intro.story:2
 msgid "The Journey Begins"
@@ -2516,7 +2519,7 @@ msgstr ""
 "Sekarang setelah Anda dan Pingus tiba di Pulau Tutorial, saatnya untuk "
 "mengambil alih komando dan memulai misi Anda.\n"
 "\n"
-"Good Luck!"
+"Semoga beruntung!"
 
 #: data/stories/tutorial_outro.story:2
 msgid "The Journey Continues"
@@ -2577,7 +2580,7 @@ msgstr ""
 
 #: data/levelsets/alien.levelset:3
 msgid "Alien by Josh Dye"
-msgstr ""
+msgstr "Alien oleh Josh Dye"
 
 #: data/levelsets/alien.levelset:4
 msgid "Escape from alien"
