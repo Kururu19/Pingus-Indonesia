@@ -1,0 +1,2660 @@
+# Ukrainian translation for pingus
+# Copyright (c) 2011 Rosetta Contributors and Canonical Ltd 2011
+# This file is distributed under the same license as the pingus package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: pingus\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-24 22:39+0100\n"
+"PO-Revision-Date: 2025-12-13 17:00+0700\n"
+"Last-Translator: Сергій Дубик <dubyk@library.lviv.ua>\n"
+"Language-Team: Ukrainian <uk@li.org>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-10-20 15:40+0000\n"
+"X-Generator: Poedit 3.8\n"
+
+#: src/engine/display/screenshot.cpp:37
+msgid "Screenshot: Saving screenshot to: "
+msgstr "Screenshot: Simpan screenshot ke: "
+
+#: src/engine/display/screenshot.cpp:39
+msgid "Screenshot: Screenshot is done."
+msgstr "Screenshot: Screenshot selesao."
+
+#: src/engine/display/screenshot.cpp:124 src/engine/display/screenshot.cpp:152
+msgid "Screenshot: Couldn't write file: "
+msgstr "Screenshot: Tidak bisa mengetik file: "
+
+#: src/editor/editor_screen.cpp:230
+msgid "== Editor Help =="
+msgstr "== Довідка з редагування =="
+
+#: src/editor/editor_screen.cpp:248
+msgid ""
+"Select all\n"
+"Clear Selection\n"
+"Raise objects\n"
+"Lower objects\n"
+"Raise objects to top\n"
+"Lower objects to bottom\n"
+"Rotate 90 degree\n"
+"Rotate 270 degree\n"
+"Group selected objects\n"
+"Ungroup selected objects\n"
+msgstr ""
+"Pilih semua\n"
+"Batalkan pemilihan\n"
+"Naikkan objek\n"
+"Turunkan objek\n"
+"Naikkan objek ke atas\n"
+"Turunkan objek ke bawah\n"
+"Putar 90 derajat\n"
+"Putar 270 derajat\n"
+"Gabungkan objek yang dipilih\n"
+"Pisahkan objek yang dipilih\n"
+
+#: src/editor/editor_screen.cpp:271
+msgid ""
+"Flip object horizontaly\n"
+"Flip object vertically\n"
+"Delete all marked objects\n"
+"Move objects by one pixel\n"
+"Move objects by 32 pixel\n"
+"Toggle background color\n"
+"Increase/lower repeat\n"
+msgstr ""
+"Balik objek secara horizontal\n"
+"Balik objek secara vertikal\n"
+"Hapus semua objek yang ditandai\n"
+"Pindahkan objek sebesar 1 piksel\n"
+"Pindahkan objek sebesar 32 piksel\n"
+"Ubah warna latar belakang\n"
+"Tingkatkan/kurangi pengulangan\n"
+
+#: src/editor/editor_screen.cpp:282
+msgid ""
+"You should name your level files systematically, i.e. by their theme, their "
+"number and your nickname:\n"
+"\n"
+"     <levelname><number>-<creator>.pingus\n"
+"\n"
+"So if you create your second level with a stone theme, call it: stone2-"
+"yourname.pingus\n"
+"\n"
+"When you have created a level and want to have it included in the game mail "
+"it to:\n"
+"\n"
+"     pingus-devel@nongnu.org\n"
+"\n"
+"Only levels published under the GPL are allowed into the game. The editor "
+"automatically inserts a reference \n"
+"to the GPL, if you want to have your level under a different license, you "
+"have to change that reference.\n"
+msgstr ""
+"Anda harus memberi nama berkas level secara sistematis, yaitu berdasarkan "
+"tema, nomor, dan nama panggilan Anda:\n"
+"\n"
+"     <nama_level><nomor>-<pencipta>.pingus\n"
+"\n"
+"Jadi, jika Anda membuat level kedua dengan tema batu, beri nama: stone2-"
+"yourname.pingus\n"
+"\n"
+"Setelah Anda membuat level dan ingin memasukkannya ke dalam game, kirimkan "
+"ke:\n"
+"\n"
+"     pingus-devel@nongnu.org\n"
+"\n"
+"Hanya level yang diterbitkan di bawah lisensi GPL yang diizinkan masuk ke "
+"dalam permainan. Editor secara otomatis menyisipkan referensi \n"
+"ke GPL. Jika Anda ingin level Anda berada di bawah lisensi yang berbeda, "
+"Anda harus mengubah referensi tersebut.\n"
+
+#: src/editor/file_dialog.cpp:58
+msgid "Datadir"
+msgstr "Тека даних"
+
+#: src/editor/file_dialog.cpp:60
+msgid "Userdir"
+msgstr "Користувацька тека"
+
+#: src/editor/file_dialog.cpp:63
+msgid "Open"
+msgstr "Buka"
+
+#: src/editor/file_dialog.cpp:63
+msgid "Save"
+msgstr "Simpan"
+
+#: src/editor/file_dialog.cpp:66 src/editor/message_box.cpp:35
+msgid "Cancel"
+msgstr "Batal"
+
+#: src/editor/file_dialog.cpp:77
+msgid "Filename:"
+msgstr "Nama file"
+
+#: src/editor/file_dialog.cpp:78
+msgid "Pathname:"
+msgstr "Nama path"
+
+#: src/editor/file_dialog.cpp:98
+msgid "Open a level"
+msgstr "Відкрити рівень"
+
+#: src/editor/file_dialog.cpp:98
+msgid "Save your level"
+msgstr "Зберегти Ваш рівень"
+
+#: src/editor/panel.cpp:171
+msgid "New level"
+msgstr "Новий рівень"
+
+#: src/editor/panel.cpp:173
+msgid "Open level..."
+msgstr "Відкрити рівень…"
+
+#: src/editor/panel.cpp:175
+msgid "Save level..."
+msgstr "Зберегти рівень…"
+
+#: src/editor/panel.cpp:177
+msgid "Save level as..."
+msgstr "Save level sebagai"
+
+#: src/editor/panel.cpp:180
+msgid "Play level..."
+msgstr "Гратися на рівні…"
+
+#: src/editor/panel.cpp:183
+msgid "Configure actions"
+msgstr "Aksi konfigurasi"
+
+#: src/editor/panel.cpp:185
+msgid "Configure level"
+msgstr "Level konfigurasi"
+
+#: src/editor/panel.cpp:187
+msgid "Display object properties"
+msgstr "Tampilan properti object"
+
+#: src/editor/panel.cpp:189
+msgid "Show object insertion window"
+msgstr "Tampilkan jendela penambahan objek"
+
+#: src/editor/panel.cpp:191
+msgid "Show minimap"
+msgstr ""
+
+#: src/editor/panel.cpp:194
+msgid "Duplicate the selected objects"
+msgstr "Duplikat objek yang dipilih"
+
+#: src/editor/panel.cpp:196
+msgid "Delete the selected objects"
+msgstr "Hapus objek yang dipilih"
+
+#: src/editor/panel.cpp:199
+msgid "Raise object to top"
+msgstr "Angkat objek ke atas"
+
+#: src/editor/panel.cpp:201
+msgid "Raise object"
+msgstr "Angkat objek"
+
+#: src/editor/panel.cpp:203
+msgid "Lower object"
+msgstr "Objek bawah"
+
+#: src/editor/panel.cpp:205
+msgid "Lower object to bottom"
+msgstr "Turunkan objek ke bawah"
+
+#: src/editor/panel.cpp:211
+msgid "Flip object horizontally"
+msgstr "Balik objek secara horizontal"
+
+#: src/editor/panel.cpp:213
+msgid "Flip object vertically"
+msgstr "Balikkan objek secara vertikal"
+
+#: src/editor/panel.cpp:216
+msgid "Rotate object -90 degree"
+msgstr "Putar objek -90 derajat"
+
+#: src/editor/panel.cpp:218
+msgid "Rotate object 90 degree"
+msgstr "Putar objek 90 derajat"
+
+#: src/editor/panel.cpp:227
+msgid "Display help"
+msgstr "Bantuan"
+
+#: src/editor/panel.cpp:229 src/editor/object_selector.cpp:174
+#: src/pingus/screens/pingus_menu.cpp:74
+msgid "Exit"
+msgstr "Keluar"
+
+#: src/editor/object_selector.cpp:165
+msgid "Entrance"
+msgstr "Pintu Masuk"
+
+#: src/editor/object_selector.cpp:166
+msgid "Groundpiece (ground)"
+msgstr "Bagian dasar (lantai)"
+
+#: src/editor/object_selector.cpp:167
+msgid "Groundpiece (solid)"
+msgstr "Bagian dasar (padat)"
+
+#: src/editor/object_selector.cpp:168
+msgid "Groundpiece (bridge)"
+msgstr "Bagian dasar (jembatan)"
+
+#: src/editor/object_selector.cpp:169
+msgid "Groundpiece (transparent)"
+msgstr "Bagian dasar (transparan)"
+
+#: src/editor/object_selector.cpp:170
+msgid "Groundpiece (remove)"
+msgstr "Bagian dasar (hilangkan)"
+
+#: src/editor/object_selector.cpp:171
+msgid "Hotspot"
+msgstr ""
+
+#: src/editor/object_selector.cpp:172
+msgid "Background"
+msgstr "Latar belakang"
+
+#: src/editor/object_selector.cpp:175
+msgid "Liquid"
+msgstr "Cairan"
+
+#: src/editor/object_selector.cpp:176
+msgid "Trap"
+msgstr "Perangkap"
+
+#: src/editor/object_selector.cpp:177
+msgid "Weather"
+msgstr "Cuaca"
+
+#: src/editor/object_selector.cpp:178
+msgid "Special Object"
+msgstr "Objek spesial"
+
+#: src/editor/object_selector.cpp:179
+msgid "Prefab Object"
+msgstr "Objek Pabrikasi"
+
+#: src/editor/message_box.cpp:37
+msgid "Replace"
+msgstr "Ganti"
+
+#: src/editor/object_properties.cpp:87 src/editor/object_properties.cpp:515
+msgid "Object:"
+msgstr "Objek:"
+
+#: src/editor/object_properties.cpp:88 src/editor/object_properties.cpp:516
+msgid "Nothing selected"
+msgstr "Belum dipilih"
+
+#: src/editor/object_properties.cpp:97
+msgid "Transparent"
+msgstr "Transparan"
+
+#: src/editor/object_properties.cpp:98
+msgid "Solid"
+msgstr "Padat"
+
+#: src/editor/object_properties.cpp:99
+msgid "Ground"
+msgstr "Tanah"
+
+#: src/editor/object_properties.cpp:100
+msgid "Bridge"
+msgstr "Jembatan"
+
+#: src/editor/object_properties.cpp:101
+msgid "Water"
+msgstr "Air"
+
+#: src/editor/object_properties.cpp:102
+msgid "Lava"
+msgstr "Lava"
+
+#: src/editor/object_properties.cpp:103
+msgid "Remove"
+msgstr "Hapus"
+
+#: src/editor/object_properties.cpp:108
+msgid "Direction:"
+msgstr "Arah"
+
+#: src/editor/object_properties.cpp:110
+msgid "Left"
+msgstr "Лівий"
+
+#: src/editor/object_properties.cpp:111
+msgid "Misc"
+msgstr "Berbagai macam"
+
+#: src/editor/object_properties.cpp:112
+msgid "Right"
+msgstr "Правий"
+
+#: src/editor/object_properties.cpp:117
+msgid "ReleaseRate:"
+msgstr "Laju Pelepasan:"
+
+#: src/editor/object_properties.cpp:140
+msgid "Para-X:"
+msgstr ""
+
+#: src/editor/object_properties.cpp:141
+msgid "Para-Y:"
+msgstr ""
+
+#: src/editor/object_properties.cpp:149
+msgid "Scroll-X:"
+msgstr ""
+
+#: src/editor/object_properties.cpp:150
+msgid "Scroll-Y:"
+msgstr ""
+
+#: src/editor/object_properties.cpp:158
+msgid "Owner Id:"
+msgstr "ID Pemilik:"
+
+#: src/editor/object_properties.cpp:162
+msgid "Z-Pos:"
+msgstr ""
+
+#: src/editor/object_properties.cpp:169
+msgid "Color:"
+msgstr "Warna"
+
+#: src/editor/object_properties.cpp:181
+msgid "Small Stars:"
+msgstr "Bintang kecil"
+
+#: src/editor/object_properties.cpp:184
+msgid "Middle Stars:"
+msgstr "Bintang tengah "
+
+#: src/editor/object_properties.cpp:187
+msgid "Large Stars:"
+msgstr "Bintang besar"
+
+#: src/editor/object_properties.cpp:195
+msgid "Repeat:"
+msgstr "Ulangi"
+
+#: src/editor/object_properties.cpp:211
+msgid "Id:"
+msgstr "Id:"
+
+#: src/editor/object_properties.cpp:215
+msgid "Target Id:"
+msgstr ""
+
+#: src/editor/object_properties.cpp:220
+msgid "Height:"
+msgstr "Tinggi:"
+
+#: src/editor/object_properties.cpp:521
+msgid "Object: [Group]"
+msgstr "Objek: [Grup]"
+
+#: src/editor/object_properties.cpp:522
+msgid "Group not supported"
+msgstr "Grup tidak didukung"
+
+#: src/editor/object_properties.cpp:527
+msgid "Object: "
+msgstr "Objek:"
+
+#: src/pingus/pingus_main.cpp:172
+msgid "[OPTIONS]... [FILE]"
+msgstr "[PENGATURAN] ... [FILE]"
+
+#: src/pingus/pingus_main.cpp:173
+msgid ""
+"Pingus is a puzzle game where you need to guide a bunch of little penguins "
+"around the world."
+msgstr ""
+"Pingus adalah game puzzle di mana Kamu harus mengarahkan sekelompok penguin "
+"kecil berkeliling dunia."
+
+#: src/pingus/pingus_main.cpp:175
+msgid "General Options:"
+msgstr "Opsi umum"
+
+#: src/pingus/pingus_main.cpp:177
+msgid "Displays this help"
+msgstr "Tampilkan bantuan ini "
+
+#: src/pingus/pingus_main.cpp:179
+msgid "Print version number and exit"
+msgstr "Print nomor versi dan keluar"
+
+#: src/pingus/pingus_main.cpp:181
+msgid "Enable info level log output"
+msgstr "Aktifkan output log dengan tingkat informasi"
+
+#: src/pingus/pingus_main.cpp:183
+msgid "Enable debug level log output"
+msgstr "Aktifkan output log tingkat debug"
+
+#: src/pingus/pingus_main.cpp:185
+msgid "Disable all log output"
+msgstr "Non-aktifkan semua log output"
+
+#: src/pingus/pingus_main.cpp:187
+msgid "Display Options:"
+msgstr "Opsi Tampilan:"
+
+#: src/pingus/pingus_main.cpp:189
+msgid "Start in Window Mode"
+msgstr ""
+
+#: src/pingus/pingus_main.cpp:191
+msgid "Start in Fullscreen"
+msgstr ""
+
+#: src/pingus/pingus_main.cpp:193
+msgid "Use the given renderer (default: sdl)"
+msgstr "Gunakan renderer yang diberikan (default: sdl)"
+
+#: src/pingus/pingus_main.cpp:195
+msgid "Set the window resolution for pingus (default: 800x600)"
+msgstr "Atur resolusi jendela untuk pingus 800x600)"
+
+#: src/pingus/pingus_main.cpp:197
+msgid "Set the resolution used in fullscreen mode (default: 800x600)"
+msgstr "Atur resolusi yang digunakan dalam mode fullscreen (типово: 800x600)"
+
+#: src/pingus/pingus_main.cpp:199
+msgid "Enable software cursor"
+msgstr "Aktifkan kursor "
+
+#: src/pingus/pingus_main.cpp:201
+msgid "Game Options:"
+msgstr "Opsi game:"
+
+#: src/pingus/pingus_main.cpp:203
+msgid "Disable automatic scrolling"
+msgstr "Matikan scrolling otomatis"
+
+#: src/pingus/pingus_main.cpp:205
+msgid "Enable drag'n drop scrolling"
+msgstr "Aktifkan kursor seret dan lepas"
+
+#: src/pingus/pingus_main.cpp:207
+msgid "Sound Options:"
+msgstr "Opsi Suara:"
+
+#: src/pingus/pingus_main.cpp:209
+msgid "Disable sound"
+msgstr "Matikan suara"
+
+#: src/pingus/pingus_main.cpp:211
+msgid "Disable music"
+msgstr "Matikan musik"
+
+#: src/pingus/pingus_main.cpp:215
+msgid "Select language to use with Pingus"
+msgstr "Pilih Bahasa untuk digunakan Bersama Pingus"
+
+#: src/pingus/pingus_main.cpp:217
+msgid "List all available languages"
+msgstr "Daftar semua bahasa yang tersedia"
+
+#: src/pingus/pingus_main.cpp:221
+msgid "Loads the level editor"
+msgstr "Memuat editor level"
+
+#: src/pingus/pingus_main.cpp:223
+msgid "Directory Options:"
+msgstr "Opsi Direktori"
+
+#: src/pingus/pingus_main.cpp:224 src/pingus/pingus_main.cpp:226
+#: src/pingus/pingus_main.cpp:228
+msgid "DIR"
+msgstr "DIR"
+
+#: src/pingus/pingus_main.cpp:225
+msgid "Load game datafiles from DIR"
+msgstr "Muat berkas data game dari direktori"
+
+#: src/pingus/pingus_main.cpp:227
+msgid "Load config files and store savegames in DIR"
+msgstr "Muat berkas konfigurasi dan simpan file penyimpanan permainan di DIR"
+
+#: src/pingus/pingus_main.cpp:229
+msgid "Load game modifications from DIR"
+msgstr "Muat modifikasi game dari folder DIR"
+
+#: src/pingus/pingus_main.cpp:231
+msgid "Don't read ~/.pingus/config"
+msgstr ""
+
+#: src/pingus/pingus_main.cpp:232
+msgid "FILE"
+msgstr "FILE"
+
+#: src/pingus/pingus_main.cpp:233
+msgid "Read config options from FILE"
+msgstr "Baca opsi konfigurasi dari FILE"
+
+#: src/pingus/pingus_main.cpp:235
+msgid "Uses the controller given in FILE"
+msgstr "Menggunakan pengontrol yang tercantum dalam FILE"
+
+#: src/pingus/pingus_main.cpp:237
+msgid "Debug Options:"
+msgstr "Opsi Debug:"
+
+#: src/pingus/pingus_main.cpp:239
+msgid "Enables some special features for developers"
+msgstr "Aktifkan beberapa fitur untuk developers"
+
+#: src/pingus/pingus_main.cpp:241
+msgid "Set the game speed (0=fastest, >0=slower)"
+msgstr "Atur kecepatan game (0=Lebih cepat, >0=Lebih lambat)"
+
+#: src/pingus/pingus_main.cpp:243
+msgid "Set the desired game framerate (frames per second)"
+msgstr "Atur kecepatan framerate game (frames per detik)"
+
+#: src/pingus/pingus_main.cpp:245
+msgid "Set the size of the map tiles (default: 32)"
+msgstr "Atur ukuran peta (default: 32)"
+
+#: src/pingus/pingus_main.cpp:663
+msgid "Pingus: Out of memory!"
+msgstr "Pingus: Kehabisan memori!"
+
+#: src/pingus/pingus_main.cpp:667
+msgid "Pingus: Standard exception caught!:\n"
+msgstr "Pingus: Kecelakaan standar terdeteksi!:\n"
+
+#: src/pingus/pingus_main.cpp:671
+msgid "Pingus: Unknown throw caught!"
+msgstr "Pingus: Lemparan tak dikenal tertangkap!"
+
+#: src/pingus/game_time.cpp:29
+msgid "unlimited"
+msgstr ""
+
+#: src/pingus/actions/bridger.cpp:38 src/pingus/actions/bridger.cpp:196
+#: src/pingus/action_name.cpp:32
+msgid "Bridger"
+msgstr ""
+
+#: src/pingus/screens/start_screen.cpp:67
+msgid "Play"
+msgstr "Main"
+
+#: src/pingus/screens/start_screen.cpp:111 src/pingus/screens/level_menu.cpp:50
+msgid "Back"
+msgstr "Kembali"
+
+#: src/pingus/screens/start_screen.cpp:166
+msgid "Number of Pingus: "
+msgstr "Jumlah Pingus: "
+
+#: src/pingus/screens/start_screen.cpp:169
+msgid "Number to Save: "
+msgstr "Diselamatkan"
+
+#: src/pingus/screens/start_screen.cpp:172
+msgid "Time: "
+msgstr "Waktu:"
+
+#: src/pingus/screens/start_screen.cpp:178
+msgid "Author: "
+msgstr ""
+
+#: src/pingus/screens/addon_menu.cpp:53 src/pingus/screens/option_menu.cpp:336
+msgid "Close"
+msgstr ""
+
+#: src/pingus/screens/pingus_menu.cpp:54
+msgid "Story"
+msgstr ""
+
+#: src/pingus/screens/pingus_menu.cpp:55
+msgid "..:: Start the game ::.."
+msgstr ""
+
+#: src/pingus/screens/pingus_menu.cpp:59
+msgid "Editor"
+msgstr "Editing"
+
+#: src/pingus/screens/pingus_menu.cpp:60
+msgid "..:: Create your own levels ::.."
+msgstr "..:: Buat level kamu sendiri ::.."
+
+#: src/pingus/screens/pingus_menu.cpp:64
+msgid "Options"
+msgstr "Pengaturan"
+
+#: src/pingus/screens/pingus_menu.cpp:65
+msgid "..:: Configure the game ::.."
+msgstr "..:: Konfigurasikan game ::.."
+
+#: src/pingus/screens/pingus_menu.cpp:69 src/pingus/screens/level_menu.cpp:177
+msgid "Levelsets"
+msgstr "Setlevel"
+
+#: src/pingus/screens/pingus_menu.cpp:70
+msgid "..:: Play User Built levels ::.."
+msgstr "..:: Mainkan Level yang Dibuat User ::.."
+
+#: src/pingus/screens/pingus_menu.cpp:75
+msgid "..:: Bye, bye ::.."
+msgstr "..:: Dadah ::.."
+
+#: src/pingus/screens/pingus_menu.cpp:87
+msgid ""
+"..:: Ctrl-g: mouse grab   ::   F10: fps counter   ::   F11: "
+"fullscreen   ::   F12: screenshot ::.."
+msgstr ""
+
+#: src/pingus/screens/level_menu.cpp:155
+msgid "Under Construction"
+msgstr "Sedang dalam pembangunan"
+
+#: src/pingus/screens/level_menu.cpp:156
+msgid "Untested, unpolished and broken levels"
+msgstr "Level yang belum diuji, belum disempurnakan, dan rusak"
+
+#: src/pingus/screens/level_menu.cpp:192
+msgid "Solved:"
+msgstr "Sudah diselesaikan:"
+
+#: src/pingus/screens/level_menu.cpp:193
+msgid "levels"
+msgstr ""
+
+#: src/pingus/screens/story_screen.cpp:108
+#: src/pingus/screens/story_screen.cpp:114
+msgid "skip"
+msgstr ""
+
+#: src/pingus/screens/option_menu.cpp:208
+msgid "Fullscreen"
+msgstr "Layar Penuh"
+
+#: src/pingus/screens/option_menu.cpp:209
+msgid "Mouse Grab"
+msgstr "Genggaman Mouse"
+
+#: src/pingus/screens/option_menu.cpp:211
+msgid "Software Cursor"
+msgstr ""
+
+#: src/pingus/screens/option_menu.cpp:212
+msgid "Autoscrolling"
+msgstr ""
+
+#: src/pingus/screens/option_menu.cpp:213
+msgid "Drag&Drop Scrolling"
+msgstr "Seret dan Lepas untuk Scrolling"
+
+#: src/pingus/screens/option_menu.cpp:215
+msgid "Print FPS"
+msgstr ""
+
+#: src/pingus/screens/option_menu.cpp:219
+msgid "Resolution:"
+msgstr "Resolusi"
+
+#: src/pingus/screens/option_menu.cpp:220
+msgid "Renderer:"
+msgstr ""
+
+#: src/pingus/screens/option_menu.cpp:222
+msgid "Language:"
+msgstr "Bahasa"
+
+#: src/pingus/screens/option_menu.cpp:224
+msgid "Master Volume:"
+msgstr "Volume Utama:"
+
+#: src/pingus/screens/option_menu.cpp:225
+msgid "Sound Volume:"
+msgstr "Volume Suara:"
+
+#: src/pingus/screens/option_menu.cpp:226
+msgid "Music Volume:"
+msgstr "Volume Musik:"
+
+#: src/pingus/screens/option_menu.cpp:334
+msgid "Option Menu"
+msgstr "Menu Pengaturan"
+
+#: src/pingus/screens/option_menu.cpp:340
+msgid "Some options require a restart of the game to take effect."
+msgstr "Beberapa opsi memerlukan restart permainan agar perubahan berlaku."
+
+#: src/pingus/screens/result_screen.cpp:91
+msgid "Give up"
+msgstr "Menyerah"
+
+#: src/pingus/screens/result_screen.cpp:126
+msgid "Retry"
+msgstr "Coba lagi"
+
+#: src/pingus/screens/result_screen.cpp:183
+msgid "Success!"
+msgstr "Berhasil!"
+
+#: src/pingus/screens/result_screen.cpp:191
+msgid "Failure!"
+msgstr "Gagal!"
+
+#: src/pingus/screens/result_screen.cpp:200
+msgid "Perfect! You saved everyone possible - great!"
+msgstr ""
+"Sempurna! Kamu telah menyelamatkan semua orang yang bisa diselamatkan - "
+"hebat!"
+
+#: src/pingus/screens/result_screen.cpp:202
+msgid "No-one got killed, pretty good work."
+msgstr "Tidak ada yang terbunuh, Good job."
+
+#: src/pingus/screens/result_screen.cpp:204
+msgid ""
+"You saved exactly what you needed - you made it, but\n"
+"maybe you can do better?"
+msgstr ""
+"Kamu telah menyimpan apa yang dibutuhkan - You made it!, Tapi\n"
+"mungkin Kamu bisa melakukannya dengan lebih baik?"
+
+#: src/pingus/screens/result_screen.cpp:207
+msgid "Not everybody was saved, but still good work!"
+msgstr "Tidak semua orang selamat, Tapi ya not bad lah."
+
+#: src/pingus/screens/result_screen.cpp:209
+msgid "What can I say, you made it - congratulations!"
+msgstr "Wow, you made it - Congrats!"
+
+#: src/pingus/screens/result_screen.cpp:214
+msgid "You killed everybody, not good."
+msgstr "Kamu membunuh semuanya, itu tidak baik loh."
+
+#: src/pingus/screens/result_screen.cpp:216
+msgid "No-one got saved - I know you can do better."
+msgstr "Tidak ada yang selamat - but i know you can do better someday. "
+
+#: src/pingus/screens/result_screen.cpp:218
+msgid ""
+"You didn't save enough, but you saved a few.  Next\n"
+"time you might do better."
+msgstr ""
+"Tabungan mu tidak cukup, Atleast kamu sedikit. Don't mind\n"
+"Lain kali pasti bisa lebih baik."
+
+#: src/pingus/screens/result_screen.cpp:221
+msgid "Only one more and you would have made it - try again!"
+msgstr "Sekali lagi dan kamu akan berhasil - Nice Try!"
+
+#: src/pingus/screens/result_screen.cpp:223
+msgid "Only a handful more and you would have made it - try again!"
+msgstr "Dikit lagi dan kamu hampir berhasil - Good Luck!"
+
+#: src/pingus/screens/result_screen.cpp:225
+msgid "Better luck next time!"
+msgstr "Semoga beruntung lain kali!"
+
+#: src/pingus/screens/result_screen.cpp:233
+msgid "Saved: "
+msgstr "Diselamatkan"
+
+#: src/pingus/screens/result_screen.cpp:237
+msgid "Died: "
+msgstr "Mati:"
+
+#: src/pingus/screens/result_screen.cpp:240
+msgid "Time left: "
+msgstr "Waktu tersisa"
+
+#: src/pingus/action_name.cpp:27
+msgid "Angel"
+msgstr "Malaikat"
+
+#: src/pingus/action_name.cpp:28
+msgid "Basher"
+msgstr "Pemukul"
+
+#: src/pingus/action_name.cpp:29
+msgid "Blocker"
+msgstr "Pemblokir"
+
+#: src/pingus/action_name.cpp:30
+msgid "Boarder"
+msgstr "Penumpang"
+
+#: src/pingus/action_name.cpp:31
+msgid "Bomber"
+msgstr ""
+
+#: src/pingus/action_name.cpp:33
+msgid "Climber"
+msgstr "Pendaki"
+
+#: src/pingus/action_name.cpp:34
+msgid "Digger"
+msgstr "penggali"
+
+#: src/pingus/action_name.cpp:35
+msgid "Drown"
+msgstr ""
+
+#: src/pingus/action_name.cpp:36
+msgid "Exiter"
+msgstr ""
+
+#: src/pingus/action_name.cpp:37
+msgid "Faller"
+msgstr ""
+
+#: src/pingus/action_name.cpp:38
+msgid "Floater"
+msgstr ""
+
+#: src/pingus/action_name.cpp:39
+msgid "Jumper"
+msgstr ""
+
+#: src/pingus/action_name.cpp:40
+msgid "Laserkill"
+msgstr ""
+
+#: src/pingus/action_name.cpp:41
+msgid "Miner"
+msgstr ""
+
+#: src/pingus/action_name.cpp:42
+msgid "Slider"
+msgstr ""
+
+#: src/pingus/action_name.cpp:43
+msgid "Smashed"
+msgstr ""
+
+#: src/pingus/action_name.cpp:44
+msgid "Splashed"
+msgstr ""
+
+#: src/pingus/action_name.cpp:45
+msgid "Superman"
+msgstr ""
+
+#: src/pingus/action_name.cpp:46
+msgid "Teleported"
+msgstr ""
+
+#: src/pingus/action_name.cpp:47
+msgid "Waiter"
+msgstr "Pelayan"
+
+#: src/pingus/action_name.cpp:48
+msgid "Walker"
+msgstr "pejalan kaki"
+
+#: src/pingus/components/pingus_counter.cpp:43
+#, c-format, boost-format
+msgid "Released:%3d/%d   Out:%3d   Saved:%3d/%d"
+msgstr ""
+
+#: src/pingus/worldmap/level_dot.cpp:134
+msgid "???"
+msgstr ""
+
+#: src/pingus/worldmap/worldmap_screen.cpp:84
+msgid "Show Ending?"
+msgstr "Lihat Ending?"
+
+#: src/pingus/worldmap/worldmap_screen.cpp:113
+msgid "Leave?"
+msgstr "Keluar?"
+
+#: data/levels/tutorial/basher-tutorial-grumbel.pingus:5
+msgid "If the way is blocked, bash away"
+msgstr "Jika jalan terhalang, hantam saja!"
+
+#: data/levels/tutorial/basher-tutorial-grumbel.pingus:6
+msgid ""
+"Similar to the Digger action that you already know from previous levels, "
+"there is also an action that allows the Pingus to dig horizontally, as "
+"opposed to the vertical dig ability the Digger action provides. This new "
+"action is called Basher. "
+msgstr ""
+"Sama seperti aksi Digger yang sudah Anda kenal dari level sebelumnya, ada "
+"juga aksi yang memungkinkan Pingus menggali secara horizontal, berbeda "
+"dengan kemampuan menggali vertikal yang disediakan oleh aksi Digger. Aksi "
+"baru ini disebut Basher. "
+
+#: data/levels/tutorial/bomber-tutorial2-grumbel.pingus:5
+msgid "Sacrifice a few and save the rest"
+msgstr "Korbankan beberapa dan selamatkan sisanya."
+
+#: data/levels/tutorial/bomber-tutorial2-grumbel.pingus:6
+msgid ""
+"Sometimes no other actions are available, so you have to bomb your way "
+"through the ground. The Pingus can do this by actually self- destructing. "
+"This will kill them, but it is sometimes necessary to sacrifice a few to "
+"save the rest. "
+msgstr ""
+"Terkadang tidak ada tindakan lain yang tersedia, jadi Kamu harus "
+"menghancurkan jalan melalui tanah. Pingus dapat melakukannya dengan cara "
+"meledakkan diri sendiri. Hal ini akan membunuh mereka, tetapi terkadang "
+"perlu mengorbankan beberapa di antaranya untuk menyelamatkan yang lain. "
+
+#: data/levels/tutorial/digger-tutorial2-grumbel.pingus:5
+msgid "Learning to dig"
+msgstr "Belajar menggali"
+
+#: data/levels/tutorial/digger-tutorial2-grumbel.pingus:6
+msgid ""
+"This is your first mission. As always, it's pretty easy. All you have to do "
+"is to give a Pingu the command to dig a hole into the ground so that they "
+"can reach the exit. This can be accomplished simply by clicking on a Pingu. "
+msgstr ""
+"Ini adalah misi pertamamu. Seperti biasa, ini cukup mudah. Yang perlu kamu "
+"lakukan hanya memberi perintah kepada Pingu untuk menggali lubang di tanah "
+"agar mereka mencapai pintu keluar. Hal ini dapat dilakukan dengan hanya "
+"mengklik Pingu. "
+
+#: data/levels/tutorial/floater-tutorial-grumbel.pingus:5
+msgid "Float or Die"
+msgstr "Berlayar atau Tenggelam"
+
+#: data/levels/tutorial/floater-tutorial-grumbel.pingus:6
+msgid ""
+"Well done in mission one! Now let's start the next one. This time you will "
+"need to equip your Pingus with a little propeller, so that they can float to "
+"the ground smoothly. If Pingus fall too far, they will not be able to "
+"survive the fall, so keep your eyes open! "
+msgstr ""
+"Selamat atas keberhasilan di misi pertama! Sekarang mari kita mulai misi "
+"berikutnya. Kali ini, kamu perlu melengkapi Pingus dengan baling-baling "
+"kecil agar mereka bisa mendarat dengan mulus. Jika Pingus jatuh terlalu "
+"jauh, mereka tidak akan bisa bertahan dari jatuh, jadi tetap waspada! "
+
+#: data/levels/tutorial/jumper-tutorial-grumbel.pingus:5
+msgid "Jump for joy"
+msgstr "Lompatlah dengan gembira!"
+
+#: data/levels/tutorial/jumper-tutorial-grumbel.pingus:6
+msgid ""
+"Sometimes a Pingu needs to reach a platform that is far away, but not "
+"reachable by walking. That's when the Jumper comes in handy - it allows the "
+"Pingu to make a small jump and so enables him to reach the platform. "
+msgstr ""
+"Terkadang Pingu perlu mencapai platform yang jauh, tetapi tidak dapat "
+"dijangkau dengan berjalan kaki. Di situlah Jumper berguna - ia memungkinkan "
+"Pingu untuk melompat sedikit dan sehingga bisa mencapai platform. "
+
+#: data/levels/tutorial/miner-tutorial2-grumbel.pingus:5
+msgid "Miner's heaven"
+msgstr "Surga para penambang"
+
+#: data/levels/tutorial/miner-tutorial2-grumbel.pingus:6
+msgid ""
+"Another action hits the street - another digging action, this time a "
+"diagonal one. It allows a Pingu to dig diagonally through ground, thus "
+"creating a path for following Pingus. The action is called Miner. "
+msgstr ""
+"Aksi lain muncul di jalan - aksi menggali, kali ini secara diagonal. Aksi "
+"ini memungkinkan Pingu menggali secara diagonal melalui tanah, sehingga "
+"menciptakan jalur bagi Pingus yang mengikuti. Aksi ini disebut Miner."
+
+#: data/levels/tutorial/snow10-grumbel.pingus:5
+msgid "Panic Island (float/bash)"
+msgstr "Pulau Panik (mengapung/memukul)"
+
+#: data/levels/tutorial/snow10-grumbel.pingus:6
+msgid ""
+"While the previous levels have not required much quick action from you, this "
+"one gets a bit trickier. The Pingus are coming out of two entrances in "
+"parallel and it is your job to coordinate the two groups wisely. "
+msgstr ""
+"Meskipun level-level sebelumnya tidak memerlukan banyak tindakan cepat, "
+"level ini sedikit rumit. Pingus muncul dari dua pintu masuk secara "
+"bersamaan, dan tugas mu ialah mengoordinasikan kedua kelompok tersebut "
+"dengan bijak. "
+
+#: data/levels/tutorial/snow11-grumbel.pingus:5
+msgid "Jump'n Bump... and Bash..."
+msgstr "Lompat, Tabrak...  Boom!"
+
+#: data/levels/tutorial/snow11-grumbel.pingus:6
+msgid ""
+"It's panic time again. The Pingus will not come out very fast, but since "
+"they turn around when they hit walls you will soon have some trouble "
+"coordinating them all. Since you only need to save 5 it should be doable, "
+"but if all else fails use the pause-mode ('p') to get an overview again. "
+msgstr ""
+"Waktunya panik! Pingus tidak akan keluar dengan cepat, tetapi karena mereka "
+"berbalik arah saat menabrak dinding, kamu akan segera kesulitan "
+"mengkoordinasikan semuanya. Karena kamu hanya perlu menyelamatkan 5, "
+"seharusnya bisa dilakukan, tetapi jika semua gagal, gunakan mode pause (‘p’) "
+"untuk mendapatkan gambaran keseluruhan lagi. "
+
+#: data/levels/tutorial/snow12-grumbel.pingus:5
+msgid "Two groups in parallel, coordinate wisely"
+msgstr "Dua kelompok secara paralel, koordinasikan dengan bijak."
+
+#: data/levels/tutorial/snow12-grumbel.pingus:6
+msgid ""
+"You have two groups to coordinate this time. No need to panic, since this "
+"level gives you enough time to think your actions through. No more tips this "
+"time, but good luck! "
+msgstr ""
+"Kamu memiliki dua kelompok yang perlu dikoordinasikan kali ini. Santai saja, "
+"karena level ini memberi Kamu cukup waktu untuk memikirkan langkah-langkah "
+"mu dengan matang. Tidak ada tips lagi kali ini, but good luck! "
+
+#: data/levels/tutorial/snow14-grumbel.pingus:5
+msgid "Block'a Rock"
+msgstr "Blok Batu."
+
+#: data/levels/tutorial/snow14-grumbel.pingus:6
+msgid ""
+"Once again it's time to combine the things you have learned in your previous "
+"levels. Blast your way free and make sure you also keep the rest of the "
+"Pingus under control. The Blocker action will be helpful."
+msgstr ""
+"Sekali lagi, ini waktunya menggabungkan semua yang kamu pelajari di level-"
+"level sebelumnya. Hancurkan jalanmu untuk bebas dan pastikan kamu juga tetap "
+"mengendalikan Pingus lainnya. Aksi Blocker akan sangat membantu."
+
+#: data/levels/tutorial/snow15-grumbel.pingus:5
+msgid "Climb, Climber,... Boom!"
+msgstr "Naik, Pendaki,... Boom!"
+
+#: data/levels/tutorial/snow15-grumbel.pingus:6
+msgid ""
+"As you might have already figured out from previous levels, you often have "
+"to combine different actions to get the job done. Due to the lack of a "
+"Digger action in this level the Bomber needs to jump in, but how can it "
+"reach the place to bomb? "
+msgstr ""
+"Seperti yang Kamu tau dari level-level sebelumnya, Kamu sering kali harus "
+"menggabungkan berbagai tindakan untuk menyelesaikan tugas. Karena tidak ada "
+"tindakan Penggali di level ini, Bomber harus turun tangan, bagaimana caranya "
+"agar Bomber bisa mencapai tempat untuk meledakkan bom? "
+
+#: data/levels/tutorial/snow16-grumbel.pingus:5
+msgid "Bridging gets more complicated..."
+msgstr "Proses penyambungan jadi lebih rumit..."
+
+#: data/levels/tutorial/snow16-grumbel.pingus:6
+msgid ""
+"Once again you have to combine actions carefully and wisely. If you don't "
+"you could end up in the hole just before the exit, so think about how to "
+"avoid that. "
+msgstr ""
+"Sekali lagi, Kamu harus menggabungkan tindakan dengan hati-hati dan bijak. "
+"Jika tidak, Kamu bisa terjebak di lubang sebelum pintu keluar, jadi pikirkan "
+"cara untuk menghindarinya. "
+
+#: data/levels/tutorial/snow17-grumbel.pingus:5
+msgid "If too high, your Pingu will die..."
+msgstr "Jika terlalu tinggi, Pingu mu bisa K.O"
+
+#: data/levels/tutorial/snow17-grumbel.pingus:6
+msgid ""
+"Teamwork is the way to the exit this time. You don't have enough Floaters to "
+"reach the exit, so just send a few and let them prepare the path for the "
+"rest. "
+msgstr ""
+"Kerja sama tim adalah kunci untuk mencapai pintu keluar kali ini. Kamu tidak "
+"memiliki cukup Floaters untuk mencapai pintu keluar, jadi kirimkan beberapa "
+"saja dan biarkan mereka menyiapkan jalan untuk yang lain. "
+
+#: data/levels/tutorial/snow19-grumbel.pingus:5
+msgid "Learn to use the bridge"
+msgstr "Belajar menggunakan jembatan"
+
+#: data/levels/tutorial/snow19-grumbel.pingus:6
+msgid ""
+"If no Jumper is at hand and a large hole needs to be passed, a bridge can be "
+"pretty helpful. It takes some time to build, but unlike the jumper action it "
+"allows following Pingus to reach the other end too. "
+msgstr ""
+"Jika tidak ada Jumper yang tersedia dan perlu melewati lubang besar, "
+"jembatan bisa berguna. Membangunnya memakan waktu, tetapi berbeda dengan "
+"aksi Jumper, jembatan ini memungkinkan Pingus yang mengikuti untuk mencapai "
+"ujung lainnya. "
+
+#: data/levels/tutorial/snow20-grumbel.pingus:5
+msgid "Three solutions, it's up to you"
+msgstr "Tiga solusi, pilihan ada di tangan mu."
+
+#: data/levels/tutorial/snow20-grumbel.pingus:6
+msgid ""
+"Now that you've learned all the actions, it's time for some more practice. "
+"This level presents you with at least three different ways to solve it. It's "
+"up to you which one you pick. "
+msgstr ""
+"Sekarang setelah Kamu mempelajari semua tindakan, saatnya untuk berlatih "
+"lebih lanjut. Level ini menawarkan tiga cara berbeda untuk menyelesaikannya. "
+"Pilihan ada di tangan mu. "
+
+#: data/levels/tutorial/snow21-grumbel.pingus:5
+msgid "Climb, Climber, climb... and build a bridge"
+msgstr "Naiklah, pendaki, naiklah... dan bangunlah jembatan."
+
+#: data/levels/tutorial/snow21-grumbel.pingus:6
+msgid ""
+"Once again you get access to a new action. The Climber action allows a Pingu "
+"to climb up straight walls, thus allowing him to reach stuff that might be "
+"too high to reach by other means. "
+msgstr ""
+"Sekali lagi, Kamu mendapatkan akses ke aksi baru. Aksi Pendaki memungkinkan "
+"Pingu untuk memanjat dinding vertikal, sehingga dapat mencapai benda-benda "
+"yang terlalu tinggi untuk dijangkau dengan cara lain. "
+
+#: data/levels/tutorial/snow22-grumbel.pingus:5
+msgid "Entrance high, Exit low"
+msgstr ""
+
+#: data/levels/tutorial/snow22-grumbel.pingus:6
+msgid ""
+"If you don't have enough floaters to bring all the Pingus down to the exit - "
+"you have to find other ways to guide them down. You should have learned all "
+"the stuff you need for this level in previous levels, so this shouldn't be "
+"too much of a problem for you. "
+msgstr ""
+"Jika Kamu tidak memiliki cukup floaters untuk membawa semua Pingus ke pintu "
+"keluar - Kamu harus mencari cara lain untuk mengarahkan mereka ke bawah. "
+"Kamu seharusnya sudah mempelajari semua hal yang diperlukan untuk level ini "
+"di level-level sebelumnya, jadi ini seharusnya tidak menjadi masalah besar "
+"bagi mu. "
+
+#: data/levels/tutorial/snow7-grumbel.pingus:5
+msgid "One must prepare, the rest must follow"
+msgstr "Seseorang harus bersiap, yang lain harus mengikuti."
+
+#: data/levels/tutorial/snow7-grumbel.pingus:6
+msgid ""
+"Sometimes there are situations where you don't have a Blocker at hand to "
+"coordinate your Pingus. You'll have to find other ways to keep them under "
+"control while a single one prepares the path for the rest. "
+msgstr ""
+"Terkadang ada situasi di mana Kamu tidak memiliki Blocker yang tersedia "
+"untuk mengkoordinasikan Pingus. Kamu harus mencari cara lain untuk "
+"mengendalikan mereka sementara satu di antaranya menyiapkan jalur untuk yang "
+"lain. "
+
+#: data/levels/tutorial/snow8-grumbel.pingus:5
+msgid "Dig and float, just don't fall and smash"
+msgstr "Gali dan terapung, jangan sampai jatuh dan hancur."
+
+#: data/levels/tutorial/snow8-grumbel.pingus:6
+msgid ""
+"Unlike the first two levels, you have two actions available in this level. "
+"Your job is again simple: select an action at the panel on the left and "
+"apply it to the Pingus so that they will be able to reach the exit. Make "
+"sure that not too many of them die. "
+msgstr ""
+"Berbeda dengan dua level sebelumnya, di level ini Kamu memiliki dua aksi "
+"yang tersedia. Tugas mu kembali sederhana: pilih aksi di panel sebelah kiri "
+"dan terapkan pada Pingus agar mereka dapat mencapai pintu keluar. Pastikan "
+"tidak terlalu banyak dari mereka yang mati. "
+
+#: data/levels/tutorial/snow9-grumbel.pingus:5
+msgid "Dig, bash and other problems"
+msgstr "Menggali, memukul, dan masalah lainnya"
+
+#: data/levels/tutorial/snow9-grumbel.pingus:6
+msgid ""
+"The more levels you master, the more difficult they will get, but don't "
+"panic, as this one is still pretty easy. Just use the stuff that you've "
+"learned in the previous levels and you shouldn't have many problems. If you "
+"think you've reached a situation from which you can no longer solve the "
+"level, double click the armageddon button at the lower right. "
+msgstr ""
+"Semakin banyak level yang kamu kuasai, semakin sulit level-level berikutnya, "
+"Tapi santai saja, karena level ini masih cukup mudah. Gunakan saja apa yang "
+"sudah kamu pelajari di level-level sebelumnya, dan kamu tidak akan mengalami "
+"banyak masalah. Jika kamu sudah sampai pada situasi di mana kamu tidak bisa "
+"lagi menyelesaikan level, klik dua kali tombol Armageddon di pojok kanan "
+"bawah. "
+
+#: data/levels/tutorial/solid-tutorial-grumbel.pingus:5
+msgid "Solid ground can block the path"
+msgstr "Tanah yang kokoh dapat menghalangi jalan."
+
+#: data/levels/tutorial/solid-tutorial-grumbel.pingus:6
+msgid ""
+"As you have learned in earlier levels your Pingus can dig through basically "
+"any terrain, but there is one material which they can't penetrate: steel. "
+"These regions are marked dark grey on the level map and cannot be destroyed, "
+"so you must find a way around them. "
+msgstr ""
+"Seperti yang telah dipelajari di level sebelumnya, Pingus dapat menggali "
+"melalui hampir semua jenis medan, tetapi ada satu bahan yang tidak dapat "
+"mereka tembus: baja. Wilayah-wilayah ini ditandai dengan warna abu-abu gelap "
+"pada peta level dan tidak dapat dihancurkan, jadi Kamu harus mencari cara "
+"untuk mengelilinginya. "
+
+#: data/levels/halloween/halloween1-grumbel.pingus:5
+msgid "One jump to catch them all"
+msgstr "Satu lompatan saja untuk menangkap mereka semua"
+
+#: data/levels/halloween/halloween1-grumbel.pingus:6
+msgid ""
+"The pingus have found themselves lost on their journey.  What is this "
+"mysterious place?  Smiling pumpkins, giant candlesticks, and some boiling "
+"soup below... what wizardry is this? Now, facing a deadly abyss right in "
+"front of them it's your job to save them. Can you save them from a terrible "
+"fate?"
+msgstr ""
+"Pingus-pingus itu tersesat dalam perjalanan mereka.  Apa ini tempat "
+"misterius?  Labu-labu tersenyum, lilin raksasa, dan sup mendidih di bawah... "
+"apa sihir apa ini? Kini, di hadapan jurang maut yang mengerikan, tugasmu "
+"adalah menyelamatkan mereka. Bisakah kamu menyelamatkan mereka dari nasib "
+"mengerikan?"
+
+#: data/levels/halloween/halloween2-grumbel.pingus:5
+msgid "One Thousand and One Jumps"
+msgstr "Seribu Satu Lompatan"
+
+#: data/levels/halloween/halloween2-grumbel.pingus:6
+msgid ""
+"With the exit so high above and far out of reach for a normal Pingu, what "
+"options are there? Perhaps a jumper can rescue them?  Or will he simply slow "
+"their inevitable demise? It's your job to find out, but are you good enough "
+"to save them all?"
+msgstr ""
+"Dengan pintu keluar yang begitu tinggi dan jauh di luar jangkauan seekor "
+"Pingu biasa, Mungkin ada seorang penolong yang bisa menyelamatkan mereka?  "
+"Atau dia hanya akan memperlambat kematian mereka yang tak terhindarkan? "
+"Tugasmu adalah menemukannya, but are you good enough to save them all?"
+
+#: data/levels/halloween/halloween3-grumbel.pingus:5
+msgid "Boom Boom"
+msgstr "Boom Boom!"
+
+#: data/levels/halloween/halloween3-grumbel.pingus:6
+msgid ""
+"You've mastered the last challenge and now face the next. Their path to "
+"salvation seems to be cursed, but by whom? There is no time to think about "
+"it, since the next deadly challenge already awaits the Pingus. Two mighty "
+"roots block the way, but without a basher at hand to bash them away, "
+"sacrifice might be the only option..."
+msgstr ""
+"Kamu telah menguasai tantangan terakhir dan kini menghadapi tantangan "
+"berikutnya. Jalan menuju keselamatan mereka sepertinya terkutuk, tapi oleh "
+"siapa? Tidak ada waktu untuk memikirkannya, karena tantangan mematikan "
+"berikutnya sudah menanti Pingus. Dua akar raksasa menghalangi jalan, tapi "
+"tanpa alat pemukul untuk menghancurkannya, pengorbanan mungkin menjadi satu-"
+"satunya pilihan..."
+
+#: data/levels/halloween/halloween4-grumbel.pingus:5
+msgid "Full Circle"
+msgstr "Siklus Penuh"
+
+#: data/levels/halloween/halloween4-grumbel.pingus:6
+msgid ""
+"The exit is so close, yet out of reach. A step in the wrong direction and "
+"the Pingus will fall to a terrible fate. You must do something to help them, "
+"but is there enough time? You have to hurry and can't allow yourself any "
+"mistakes. The Pingus are counting on you!"
+msgstr ""
+"Keluarannya begitu dekat, namun tak terjangkau. Satu langkah salah dan "
+"Pingus akan jatuh ke nasib yang mengerikan. Kamu harus bergegas dan tak "
+"boleh membuat kesalahan. Pingus mengandalkanmu!"
+
+#: data/levels/halloween/halloween5-grumbel.pingus:5
+msgid "Bridgers Nightmare"
+msgstr "Mimpi Buruk Bridgers"
+
+#: data/levels/halloween/halloween5-grumbel.pingus:6
+msgid ""
+"Who placed this monstrous wall here?  This terrible blockade separates your "
+"Pingus from the exit. Destruction of its awful construction seems an "
+"impossibility, but perhaps the bridger can come to the rescue?  Can they "
+"build their bridges high enough to guide the group yet again safely to the "
+"exit? Or is somebody playing evil mind tricks with you?\n"
+"\n"
+"Yet again the solution is your call... your gray matter is the key to the "
+"Pingus' success, so don't let yourself get confused and misguided from the "
+"true path."
+msgstr ""
+"Siapa yang menempatkan dinding raksasa ini di sini?  Penghalang mengerikan "
+"ini memisahkan Pingus Kamu dari pintu keluar. Merusak konstruksi mengerikan "
+"ini tampaknya mustahil, tetapi mungkin jembatan dapat datang untuk "
+"menolong?  Bisakah mereka membangun jembatan mereka cukup tinggi untuk "
+"mengarahkan kelompok ini sekali lagi dengan aman ke pintu keluar? Atau "
+"apakah seseorang sedang memainkan trik pikiran jahat pada mu?\n"
+"\n"
+"Sekali lagi, solusi ada di tanganmu... otakmu adalah kunci kesuksesan "
+"Pingus, jadi jangan biarkan dirimu bingung dan tersesat dari jalan yang "
+"benar."
+
+#: data/levels/halloween/halloween6-grumbel.pingus:5
+msgid "Locked up by the witch"
+msgstr "Ditahan oleh penyihir"
+
+#: data/levels/halloween/halloween6-grumbel.pingus:6
+msgid ""
+"Is this a prison? Blocked by solid walls all around, there doesn't seem to "
+"be a way to escape. Salvation seems impossible. But wait... the wall to the "
+"right seems weak... perhaps this is a way to escape? Or is it a false path "
+"that will lead to the Pingus' doom?\n"
+"\n"
+"This is a risky trip, but you must take it to find out how to bring them all "
+"to freedom once again."
+msgstr ""
+"Apakah ini penjara? Dikelilingi oleh dinding-dinding kokoh di semua sisi, "
+"sepertinya tidak ada cara untuk melarikan diri. Tapi tunggu... dinding di "
+"sebelah kanan sepertinya lemah... mungkin ini adalah cara untuk melarikan "
+"diri? Atau apakah ini jalan palsu yang akan membawa mereka ke kehancuran?\n"
+"\n"
+"Ini adalah perjalanan yang berisiko, tetapi kamu harus melakukannya untuk "
+"menemukan cara membawa mereka semua kembali ke kebebasan."
+
+#: data/levels/halloween/halloween7-grumbel.pingus:5
+msgid "Splatterfest"
+msgstr ""
+
+#: data/levels/halloween/halloween7-grumbel.pingus:6
+msgid ""
+"This is by far the deepest pit the Pingus have yet encountered. Building a "
+"bridge across it seems obvious but that won't help since the exit is deep "
+"down in the pit itself. Pingus who try to go down the pit will just end up "
+"splattered all over the ground. You have two groups of Pingus at your "
+"disposal, can you make them work together to reach even an exit this well "
+"hidden?"
+msgstr ""
+"Ini adalah lubang terdalam yang pernah ditemui oleh Pingus. Membangun "
+"jembatan di atasnya mungkin terdengar jelas, tetapi itu tidak akan membantu "
+"karena pintu keluarnya berada jauh di dalam lubang itu sendiri. Pingus yang "
+"mencoba turun ke lubang akan berakhir terciprat di seluruh tanah. Kamu "
+"memiliki dua kelompok Pingus yang dapat digunakan, bisakah Kamu membuat "
+"mereka bekerja sama untuk mencapai pintu keluar yang begitu tersembunyi ini?"
+
+#: data/levels/halloween/halloween8-plouj.pingus:5
+msgid "Staircase Maintenance"
+msgstr "Perawatan Tangga"
+
+#: data/levels/halloween/halloween8-plouj.pingus:6
+msgid ""
+"It seems we are up again against a mighty wall, and it is blocking the exit! "
+"But wait, some good soul has built a staircase around it. It seems, however, "
+"that the poor fool's efforts didn't last long, as the staircase is destroyed "
+"and full of holes. Can you fix it and make it over the wall? Yet of course "
+"you know that the right solution might not be the obvious one. But your "
+"Pingus are almost free, and they trust in your skill to guide them to safety "
+"once more. Succeed and you will have freed them once and for all from "
+"whatever evildoer that placed them in this nightmare... at least for this "
+"year."
+msgstr ""
+"Sepertinya kita kembali dihadapkan pada dinding yang kokoh, dan dinding itu "
+"menghalangi jalan keluar! Tapi tunggu, ada seseorang yang baik hati telah "
+"membangun tangga di sekitarnya. Namun, sepertinya usaha si bodoh itu tidak "
+"bertahan lama, karena tangga itu hancur dan penuh lubang. Bisakah kamu "
+"memperbaikinya dan melewati dinding itu? Namun, Pingus-mu hampir bebas, dan "
+"mereka percaya pada kemampuamu untuk membimbing mereka ke tempat aman sekali "
+"lagi. Berhasil, dan kamu akan membebaskan mereka selamanya dari penjahat "
+"yang menempatkan mereka dalam mimpi buruk ini... setidaknya untuk tahun ini."
+
+#: data/levels/halloween2011/halloween10-grumbel.pingus:5
+msgid "Down Into The Cave"
+msgstr "Menuruni Goa"
+
+#: data/levels/halloween2011/halloween10-grumbel.pingus:6
+msgid ""
+"The exit is far below and the pingus are separated from it by quite a "
+"distance. The path down is riddled with gulfs, so jumping and bridging will "
+"be the primary tool to get down there. But be careful, the last few steps "
+"require some extra cleverness."
+msgstr ""
+"Keluarannya berada jauh di bawah dan pingus-pingus terpisah darinya dengan "
+"jarak yang cukup jauh. Jalan turun dipenuhi dengan jurang-jurang, jadi "
+"melompat dan menjembatani akan menjadi alat utama untuk turun ke sana. "
+"langkah-langkah terakhir memerlukan sedikit kecerdikan ekstra."
+
+#: data/levels/halloween2011/halloween11-grumbel.pingus:5
+msgid "Round and Round"
+msgstr "Berputar-putar"
+
+#: data/levels/halloween2011/halloween11-grumbel.pingus:6
+msgid ""
+"Trapped in an eternal loop one brave pingu has to break out and go on a "
+"journey in search for the exit, but he mustn't be too happy once he found "
+"it, as there is still one last challenge he must solve before being allowed "
+"to enter it, otherwise all his friends might perish."
+msgstr ""
+"Terperangkap dalam lingkaran abadi, seekor pingu yang berani harus melarikan "
+"diri. Namun, dia tidak boleh terlalu bahagia begitu menemukannya, karena "
+"masih ada satu tantangan terakhir yang harus dia selesaikan sebelum "
+"diizinkan masuk ke dalamnya. Jika tidak, semua temannya mungkin akan...."
+
+#: data/levels/halloween2011/halloween12-grumbel.pingus:5
+msgid "Red Herring Cave"
+msgstr "Gua Red Herring"
+
+#: data/levels/halloween2011/halloween12-grumbel.pingus:6
+msgid ""
+"The exit is right above the pingus heads, with a few friendly arrows "
+"pointing the way. With jumpers around the solution should be obvious. But "
+"wait, can anything you find in a dark cave be trusted or is there some more "
+"going on which might slip your view? Thinking outside the box might be "
+"required."
+msgstr ""
+"Keluarannya tepat di atas kepala pingus, dengan beberapa panah ramah yang "
+"menunjuk arah. Dengan para pelompat di sekitarnya, solusinya seharusnya "
+"jelas. Tapi tunggu, apakah sesuatu yang kamu temukan di gua gelap bisa "
+"dipercaya, atau ada hal lain yang mungkin terlewat dari pandanganmu? "
+"Berpikir di luar kotak mungkin diperlukan."
+
+#: data/levels/halloween2011/halloween13-grumbel.pingus:5
+msgid "Group Coordination"
+msgstr "Koordinasi Kelompok"
+
+#: data/levels/halloween2011/halloween13-grumbel.pingus:6
+msgid ""
+"Three groups are on their way to the exit, one of them trapped right above "
+"it, but locked into a box. None of them can make it alone, coordinate them "
+"wisely and everybody should be able to make it safely to the exit. "
+msgstr ""
+"Tiga kelompok sedang menuju ke pintu keluar, salah satunya terjebak tepat di "
+"atasnya, tetapi terkunci dalam sebuah kotak. Tidak ada yang bisa "
+"melakukannya sendirian, koordinasikan mereka dengan bijak dan semua orang "
+"seharusnya bisa sampai ke pintu keluar dengan aman. "
+
+#: data/levels/halloween2011/halloween14-grumbel.pingus:5
+msgid "Traps, Dangers and other Problems"
+msgstr "Perangkap, Bahaya, dan Masalah Lainnya"
+
+#: data/levels/halloween2011/halloween14-grumbel.pingus:6
+msgid ""
+"The path to the exit lays below, shimmering through the planks. But the fall "
+"is too high, deadly for sure. Can one pingu alone make it's way through the "
+"dangerous traps and secure the path to the exit?"
+msgstr ""
+"Jalan menuju pintu keluar berada di bawah, berkilauan di antara papan-papan. "
+"Namun, jatuhnya terlalu tinggi, pasti mematikan. Bisakah seekor pingu "
+"sendirian menembus jebakan-jebakan berbahaya dan memastikan jalan menuju "
+"pintu keluar?"
+
+#: data/levels/halloween2011/halloween15-grumbel.pingus:5
+msgid "Reach that Switch"
+msgstr "Capai tombol tersebut"
+
+#: data/levels/halloween2011/halloween15-grumbel.pingus:6
+msgid ""
+"The path to the exit is straight, flat and simple, but wait a solid door "
+"blocking the way? How can the pingus open it? Is that a switch there on the "
+"hill to the right? Might that be the solution to opening the door and "
+"freeing the pingus? But how can they reach that switch?"
+msgstr ""
+"Jalan menuju pintu keluar lurus, datar, dan sederhana, tapi tunggu, ada "
+"pintu kokoh yang menghalangi jalan? Bagaimana pingus bisa membukanya? Apakah "
+"itu tombol di bukit sebelah kanan? Mungkin itu solusi untuk membuka pintu "
+"dan membebaskan pingus?"
+
+#: data/levels/halloween2011/halloween16-grumbel.pingus:5
+msgid "The Collapsed Column"
+msgstr "Kolom yang Ambruk"
+
+#: data/levels/halloween2011/halloween16-grumbel.pingus:6
+msgid ""
+"High up above the green slime the pingus are moving from column to column, "
+"getting closer to the exit with each step, but wait, there is a second group "
+"of pingus, they are stuck. The column next to them has collapsed making "
+"getting to the exit impossible. Can you find a way around the abyss?"
+msgstr ""
+"Di atas lapisan lendir hijau, para pingus bergerak dari kolom ke kolom, "
+"semakin mendekati pintu keluar dengan setiap langkah, tetapi tunggu, ada "
+"kelompok pingus kedua yang terjebak. Kolom di samping mereka telah runtuh, "
+"membuat akses ke pintu keluar menjadi mustahil. Bisakah kamu menemukan cara "
+"untuk menghindari jurang itu?"
+
+#: data/levels/halloween2011/halloween17-grumbel.pingus:5
+msgid "Island of Doom"
+msgstr "Pulau Kiamat"
+
+#: data/levels/halloween2011/halloween17-grumbel.pingus:6
+msgid ""
+"The pingus are released close together, but split up by a solid metal column "
+"with seemingly no way to join them back up. The journey will be dangerous "
+"and some height has be crossed with the exit hidden below. With some "
+"cleverness it should be possible to join those two groups back together."
+msgstr ""
+"Pingus dilepaskan berdekatan, tetapi dipisahkan oleh kolom logam solid yang "
+"tampaknya tidak ada cara untuk menyatukannya kembali. Perjalanan ini akan "
+"berbahaya dan harus menyeberangi ketinggian tertentu dengan pintu keluar "
+"tersembunyi di bawah."
+
+#: data/levels/halloween2011/halloween18-grumbel.pingus:5
+msgid "Tower of Death"
+msgstr "Menara Kematian"
+
+#: data/levels/halloween2011/halloween18-grumbel.pingus:6
+msgid ""
+"The pingus are at the top of the tower, with no stairway around. The exit is "
+"deep down, hidden at the foot of the tower. How shall they make it down all "
+"that height with no floaters sight? A few well placed diggers should be "
+"enough to get the job done, but wait, no, their direction isn't quite right. "
+"You have to give them directions or it will be their doom."
+msgstr ""
+"Pingus berada di puncak menara, tanpa tangga di sekitarnya. Keluarannya "
+"berada jauh di bawah, tersembunyi di kaki menara. Beberapa penggali yang "
+"ditempatkan dengan baik seharusnya cukup untuk menyelesaikan tugas, tapi "
+"tunggu, tidak, arah mereka tidak tepat. Kamu harus memberi mereka petunjuk "
+"atau itu akan menjadi kehancuran mereka."
+
+#: data/levels/halloween2011/halloween19-rz.pingus:5
+msgid "The Ones"
+msgstr "Yang Terpilih"
+
+#: data/levels/halloween2011/halloween19-rz.pingus:6
+msgid ""
+"This is the last stage the pingus have to pass during this Halloween. Two "
+"oddly familiar column are in the way. What do they mean? The two groups of "
+"pingus have to work together to make it down the columns to the exit far "
+"below."
+msgstr ""
+"Ini adalah tahap terakhir yang harus dilalui oleh pingus selama Halloween "
+"ini. Dua kolom yang anehnya familiar menghalangi jalan. Apa artinya? Kedua "
+"kelompok pingus harus bekerja sama untuk turun melalui kolom-kolom tersebut "
+"menuju pintu keluar yang jauh di bawah."
+
+#: data/levels/desert/desert-crawl-timpany.pingus:5
+msgid "Crawlspace"
+msgstr "Ruang bawah lantai"
+
+#: data/levels/desert/desert-crawl-timpany.pingus:6
+msgid ""
+"The path to the exit is blocked and many small tunnels lead the way, but be "
+"careful some of those lead to certain death. Or is there something you can "
+"do about that and create a save passage for all the Pingus and lead them "
+"safely to the exit?"
+msgstr ""
+"Jalan menuju pintu keluar terhalang, dan banyak terowongan kecil yang "
+"mengarah ke sana, berhati-hatilah, beberapa di antaranya mengarah ke "
+"kematian. Atau apakah ada yang bisa kamu lakukan untuk itu dan menciptakan "
+"jalur aman bagi semua Pingus."
+
+#: data/levels/desert/desert1-janne.pingus:5
+msgid "Down the valley and up again"
+msgstr "Menuruni lembah dan kembali naik"
+
+#: data/levels/desert/desert1-janne.pingus:6
+msgid ""
+"There is a large valley between the entrance and the exit. No bridge will be "
+"long enough to cross the valley, but can you find a way back up once you "
+"lead the Pingus down into the valley?"
+msgstr ""
+"Ada lembah yang luas di antara pintu masuk dan pintu keluar. Tidak ada "
+"jembatan yang cukup panjang untuk menyeberangi lembah itu, tetapi apakah "
+"Anda bisa menemukan cara untuk kembali ke atas setelah membawa Pingus turun "
+"ke lembah?"
+
+#: data/levels/desert/desert1.pingus:5
+msgid "Entering the pyramid"
+msgstr "Masuk ke piramida"
+
+#: data/levels/desert/desert1.pingus:6
+msgid ""
+"After their long and dangerous journey through the desert the Pingus finally "
+"reach the large pyramid, but there is still a pedestal blocking their way."
+msgstr ""
+"Setelah perjalanan panjang dan berbahaya melintasi gurun, Pingus akhirnya "
+"tiba di piramida besar, tetapi masih ada sebuah pedestal yang menghalangi "
+"jalan mereka."
+
+#: data/levels/desert/desert2.pingus:5
+msgid "The window room"
+msgstr "Ruangan berjendela"
+
+#: data/levels/desert/desert2.pingus:6
+msgid ""
+"After the Pingus have entered the pyramid, they reach a large room with a "
+"large window. The only problem they have is that the entrance to the room is "
+"much too high to survive the landing. Can you help them?"
+msgstr ""
+"Setelah Pingus memasuki piramida, mereka sampai di sebuah ruangan besar "
+"dengan jendela besar. Masalah utama yang mereka hadapi adalah bahwa pintu "
+"masuk ruangan tersebut terlalu tinggi untuk mendarat dengan selamat. Bisakah "
+"kamu membantu mereka?"
+
+#: data/levels/desert/desert3-jings.pingus:5
+msgid "Grand Hall"
+msgstr "Gedung Utama"
+
+#: data/levels/desert/desert3-jings.pingus:6
+msgid ""
+"The pingus have found themselves in the grand hall, a hall full of wonder "
+"and treasures. The exit however is high up and won't be easy to reach. Guide "
+"the pingus around the hall and maybe you will find a way."
+msgstr ""
+"Pingus-pingus telah menemukan diri mereka di ruang besar, sebuah ruang yang "
+"penuh keajaiban dan harta karun. Namun, pintu keluar berada di tempat yang "
+"tinggi dan tidak akan mudah dijangkau. Bantu pingus-pingus berkeliling ruang "
+"tersebut."
+
+#: data/levels/desert/desert3.pingus:5
+msgid "Pass the pedestal"
+msgstr "Berikan podiumnya"
+
+#: data/levels/desert/desert3.pingus:6
+msgid ""
+"A large pedestal is blocking the way to the exit and there aren't enough "
+"bashers available to dig it away. Can you find a way to make it past the "
+"pedestal?"
+msgstr ""
+"Sebuah pedestal besar menghalangi jalan menuju pintu keluar, dan tidak cukup "
+"banyak alat penggali yang tersedia untuk menggali pedestal tersebut. Bisakah "
+"menemukan cara untuk melewati pedestal tersebut?"
+
+#: data/levels/desert/desert4.pingus:5
+msgid "The excavation of the pyramid"
+msgstr "Penggalian piramida"
+
+#: data/levels/desert/desert4.pingus:6
+msgid ""
+"The excavations are open to reach the pyramid for his redeeming content. "
+"Some excavations, however, is best done with two competitors. Who comes "
+"first?"
+msgstr ""
+"Penggalian-penggalian tersebut dibuka untuk mencapai piramida demi isinya "
+"yang berharga. Namun, beberapa penggalian sebaiknya dilakukan oleh dua tim. "
+"Siapa yang akan tiba lebih dulu?"
+
+#: data/levels/desert/desert5-tflavel.pingus:5
+msgid "Claustrophobia"
+msgstr ""
+
+#: data/levels/desert/desert5-tflavel.pingus:6
+msgid ""
+"Hidden deep below the pyramid the pingus come across a small underground "
+"room, but unfortunatley a large tree root blocks their path..."
+msgstr ""
+"Tersembunyi jauh di bawah piramida, para pingus menemukan sebuah ruangan "
+"bawah tanah kecil, tetapi sayangnya, akar pohon besar menghalangi jalan "
+"mereka..."
+
+#: data/levels/desert/desert5.pingus:5
+msgid "Catch them at the half way point"
+msgstr "Tangkap mereka di titik tengah."
+
+#: data/levels/desert/desert5.pingus:6
+msgid ""
+"The Pingus are separated from the exit by large abyss. A simple bridge won't "
+"be enough to catch them safely, unless of course you find the right place to "
+"put it. Can you uncover that spot?"
+msgstr ""
+"Pingus terpisah dari pintu keluar oleh jurang yang dalam. Jembatan sederhana "
+"tidak akan cukup untuk menangkap mereka dengan aman, kecuali tentu saja jika "
+"bisa menemukan tempat yang tepat untuk meletakkannya."
+
+#: data/levels/desert/desert6-grumbel.pingus:5
+msgid "A bit to the right a bit to left"
+msgstr "Sedikit ke kanan, sedikit ke kiri"
+
+#: data/levels/desert/desert6-grumbel.pingus:6
+msgid "Only the most audacious Pingus will be allowed to continue."
+msgstr "Hanya Pingus yang paling berani yang diizinkan untuk melanjutkan."
+
+#: data/levels/desert/desert7-grumbel.pingus:5
+msgid "25 Pingus free and 25 in the box"
+msgstr "25 Pingus gratis dan 25 dalam kotak"
+
+#: data/levels/desert/desert7-grumbel.pingus:6
+msgid ""
+"Okay for the Bridger but what can I do with Digger? You should save at least "
+"one Pingu trapped in the box above the exit."
+msgstr ""
+"Oke untuk Bridger, tapi apa yang bisa aku lakukan dengan Digger? Kamu harus "
+"menyelamatkan setidaknya satu Pingu yang terjebak di kotak di atas pintu "
+"keluar."
+
+#: data/levels/desert/desert8-grumbel.pingus:5
+msgid "Tunnel Time"
+msgstr "Waktu Terowongan"
+
+#: data/levels/desert/desert8-grumbel.pingus:6
+msgid ""
+"Dig a tunnel and you might make it to the exit. Digger and miners and stuff "
+"have to work together."
+msgstr ""
+"Gali terowongan dan kamu mungkin bisa sampai ke pintu keluar. Para penggali "
+"dan penambang harus bekerja sama."
+
+#: data/levels/desert/desertwaste1-grumbel.pingus:5
+msgid "The Roof"
+msgstr "Atap"
+
+#: data/levels/desert/desertwaste1-grumbel.pingus:6
+msgid ""
+"Sometimes the roofs are not good for refuge, sometimes it should be "
+"demolished! But be careful if you aren't precise enough, you might lead the "
+"Pingus straight to certain death."
+msgstr ""
+"Terkadang atap tidak cocok sebagai tempat berlindung, terkadang harus "
+"dibongkar! Tapi berhati-hatilah jika tidak cukup teliti, kamu mungkin akan "
+"membawa Pingus langsung ke kematian."
+
+#: data/levels/desert/indiana-yingwan.pingus:5
+msgid "Pingus Jones and the Last Exit"
+msgstr "Pingus Jones dan Keluar Terakhir"
+
+#: data/levels/desert/indiana-yingwan.pingus:6
+msgid ""
+"Dr. Jones' notebook:\n"
+"\n"
+"  (1) the breath of God: only the penitent pingus will pass;\n"
+"  (2) the word of God... in reverse;\n"
+"  (3) the path of God: leap from the head of something like a cat."
+msgstr ""
+"Buku catatan Dr. Jones:\n"
+"\n"
+"  (1) nafas Tuhan: hanya orang berdosa yang bertobat yang akan lolos;\n"
+"  (2) firman Tuhan... terbalik;\n"
+"  (3) jalan Tuhan: melompat dari kepala sesuatu yang mirip kucing."
+
+#: data/levels/mysteryisland/cave-lac.pingus:7
+msgid "Trapped Underground"
+msgstr "Terperangkap di Bawah Tanah"
+
+#: data/levels/mysteryisland/cave-lac.pingus:8
+msgid ""
+"The penguins escaped the mad scientist, but now they were trapped deep "
+"underground. They had no food or water, so they had to move fast."
+msgstr ""
+"Pinguin-pinguin itu berhasil melarikan diri dari ilmuwan gila, tetapi kini "
+"mereka terjebak di bawah tanah yang dalam. Mereka tidak memiliki makanan "
+"atau air, jadi mereka harus bergerak cepat."
+
+#: data/levels/mysteryisland/cave1-marcotte.pingus:5
+msgid "Near can mean far"
+msgstr "Dekat bisa berarti jauh"
+
+#: data/levels/mysteryisland/cave1-marcotte.pingus:6
+msgid ""
+"What do you do when you're going in the wrong direction ? Simple: walk into "
+"a wall. But it is easier said than done..."
+msgstr ""
+"Apa yang kamu lakukan saat kamu berjalan ke arah yang salah? Sederhana: "
+"tabrak dinding. Tapi lebih mudah diucapkan daripada dilakukan..."
+
+#: data/levels/mysteryisland/emperiment-lac.pingus:5
+msgid "Experimentation"
+msgstr "Eksperimen"
+
+#: data/levels/mysteryisland/emperiment-lac.pingus:6
+msgid ""
+"A mad scientist has captured the penguins and is experimenting on them. How "
+"can the penguins escape the guillotine?"
+msgstr ""
+"Seorang ilmuwan gila telah menangkap penguin-penguin dan melakukan "
+"eksperimen pada mereka. Bagaimana cara penguin-penguin itu melarikan diri "
+"dari guillotine?"
+
+#: data/levels/mysteryisland/hall-of-illusion-lac.pingus:5
+msgid "Hall of Illusion"
+msgstr "Ruangan Ilusi"
+
+#: data/levels/mysteryisland/hall-of-illusion-lac.pingus:6
+msgid ""
+"The penguins stopped and stood in indecision. What was real and what was "
+"not? Flame lanced from above and a guillotine glittered in the distance. "
+"Almost all penguins must survive."
+msgstr ""
+"Pinguin-pinguin itu berhenti dan berdiri dengan ragu-ragu. Apa yang nyata "
+"dan apa yang tidak? Api menyembur dari atas dan sebuah guillotine berkilauan "
+"di kejauhan. Hampir semua pinguin harus selamat."
+
+#: data/levels/mysteryisland/lavapit3.pingus:7
+msgid "The Lava Pit"
+msgstr "Lubang Lava"
+
+#: data/levels/mysteryisland/lavapit3.pingus:8
+msgid ""
+"The penguins had defeated the mad scientist, and were walking away from his "
+"destroyed laboratory when a huge hole opened under their feet. The penguins "
+"fell into an underground cave and the only way out was across the lava pit. "
+"Luckily, it seemed someone had left some helpful signs."
+msgstr ""
+"Pinguin-pinguin itu telah mengalahkan ilmuwan gila, dan sedang berjalan "
+"menjauh dari laboratoriumnya yang hancur ketika sebuah lubang besar tiba-"
+"tiba terbuka di bawah kaki mereka. Pinguin-pinguin itu terjatuh ke dalam gua "
+"bawah tanah, dan satu-satunya cara keluar adalah melintasi lubang lava. "
+"Beruntungnya, sepertinya seseorang telah meninggalkan beberapa tanda yang "
+"berguna."
+
+#: data/levels/mysteryisland/madscientist1-lac.pingus:7
+msgid "At least the experiments are over..."
+msgstr "Setidaknya eksperimen-eksperimen itu sudah selesai..."
+
+#: data/levels/mysteryisland/madscientist1-lac.pingus:8
+msgid ""
+"The good news was that the mad scientist had tired of his experiments, the "
+"bad news was that now he was dumping them down a pit. A single floatation "
+"device was all the penguins had. Save as many as possible."
+msgstr ""
+"Berita baiknya adalah ilmuwan gila itu sudah bosan dengan eksperimennya, "
+"berita buruknya adalah sekarang dia membuangnya ke dalam lubang. Satu-"
+"satunya alat apung yang dimiliki penguin-penguin itu. Selamatkan sebanyak "
+"mungkin."
+
+#: data/levels/mysteryisland/multi1-lac.pingus:7
+msgid "Ghosting"
+msgstr "Menghilang tanpa kabar"
+
+#: data/levels/mysteryisland/multi1-lac.pingus:8
+msgid ""
+"The penguins came to a long pass. Acid bubbled underneath and it seemed a "
+"climber or two were needed.  Hint: slider can be used to stop the miner "
+"ability."
+msgstr ""
+"Pinguin-pinguin itu tiba di sebuah lereng panjang. Asam mendidih di bawahnya "
+"dan sepertinya dibutuhkan satu atau dua pendaki.\n"
+"Petunjuk: Penggeser dapat digunakan untuk menghentikan kemampuan penambang."
+
+#: data/levels/mysteryisland/rainy1-lac.pingus:7
+msgid "The Final (and suprisingly easy) Challenge"
+msgstr "Tantangan Akhir (dan ternyata mudah)"
+
+#: data/levels/mysteryisland/rainy1-lac.pingus:8
+msgid ""
+"The penguins had reached the end of the island. In the water was a long "
+"tree, perfect for the penguin's needs. Their journey was almost over."
+msgstr ""
+"Pinguin-pinguin telah sampai di ujung pulau. Di air terdapat pohon panjang "
+"yang sempurna untuk kebutuhan pinguin. Perjalanan mereka hampir selesai."
+
+#: data/levels/mysteryisland/revenge1-lac.pingus:7
+#: data/levels/mysteryisland/revenge2-lac.pingus:7
+msgid "Revenge is sweet"
+msgstr "Pembalasan itu manis."
+
+#: data/levels/mysteryisland/revenge1-lac.pingus:8
+msgid ""
+"The penguins had escaped the mad scientist but now they wanted revenge. They "
+"intended to destroy the support structures, sending the evil laboratory "
+"crashing down."
+msgstr ""
+"Pinguin-pinguin itu berhasil melarikan diri dari ilmuwan gila, tetapi kini "
+"mereka ingin balas dendam. Mereka berencana menghancurkan struktur penopang, "
+"sehingga laboratorium jahat itu runtuh."
+
+#: data/levels/mysteryisland/revenge2-lac.pingus:8
+msgid ""
+"The penguins had escaped the mad scientist but now they wanted revenge. They "
+"intended to destroy the support structures, sending the evil laboratory "
+"crashing down. They had to move fast though, because the mad scientist would "
+"detect and recapture them if they weren't fast enough."
+msgstr ""
+"Pinguin-pinguin itu berhasil melarikan diri dari ilmuwan gila, tetapi kini "
+"mereka ingin balas dendam. Mereka berencana menghancurkan struktur penopang "
+"laboratorium jahat itu. Namun, karena ilmuwan gila itu akan mendeteksi dan "
+"menangkap mereka kembali jika mereka tidak cukup cepat."
+
+#: data/levels/mysteryisland/snow2-lac.pingus:7
+msgid "Winter Wonderland"
+msgstr "Dunia Ajaib Musim Dingin"
+
+#: data/levels/mysteryisland/snow2-lac.pingus:8
+msgid ""
+"After getting past the lava pit, the penguins walked and walked until they "
+"reached a snowed in exit. That would be relatively easy to tunnel through "
+"but how would it be possible to tunnel through solid metal?"
+msgstr ""
+"Setelah melewati lubang lava, para penguin terus berjalan hingga mereka "
+"mencapai pintu keluar yang tertutup salju. Itu akan relatif mudah untuk "
+"digali, tetapi bagaimana mungkin menggali melalui logam yang padat?"
+
+#: data/levels/mysteryisland/theend-lac.pingus:7
+msgid "The Journey Goes On"
+msgstr "Perjalanan Berlanjut"
+
+#: data/levels/mysteryisland/theend-lac.pingus:8
+msgid ""
+"And so the penguins continued on their journey, drawing ever closer to the "
+"North Pole. They had escaped the guillotine, defeated the mad scientist and "
+"got a new boat. And so this chapter in their voyage was over, but there "
+"would be other obstacles. Nothing  would stop the determined penguins from "
+"reaching their goal."
+msgstr ""
+"Dan begitu para penguin melanjutkan perjalanan mereka. Mereka telah lolos "
+"dari hukuman mati, mengalahkan ilmuwan gila, dan mendapatkan perahu baru. "
+"tetapi masih ada rintangan lain yang menanti. Tidak ada yang dapat "
+"menghentikan para penguin yang tekun ini untuk mencapai tujuan mereka."
+
+#: data/levels/mysteryisland/use-the-slide-lac.pingus:7
+msgid "Think fast (literally)"
+msgstr "Berpikir cepat (secara harfiah)"
+
+#: data/levels/mysteryisland/use-the-slide-lac.pingus:8
+msgid ""
+"This would be simple but for one thing, there are no blockers. All the "
+"penguins must survive."
+msgstr ""
+"Ini akan sederhana jika bukan karena satu hal, yaitu tidak ada penghalang. "
+"Semua penguin harus selamat."
+
+#: data/levels/mysteryisland/volcano1-grumbel.pingus:5
+msgid "Shipwrecked"
+msgstr "Terdampar"
+
+#: data/levels/mysteryisland/volcano1-grumbel.pingus:6
+msgid ""
+"The penguins were sailing along happily on their makeshift boat until "
+"suddenly an island appeared. The penguins were drawn towards it and crashed, "
+"destroying their boat. Now they must find their way across this strange "
+"island."
+msgstr ""
+"Pinguin-pinguin itu sedang berlayar dengan bahagia di perahu darurat mereka "
+"hingga tiba-tiba sebuah pulau muncul. Pinguin-pinguin itu tertarik ke arah "
+"pulau itu dan menabraknya, menghancurkan perahu mereka. Kini mereka harus "
+"mencari jalan untuk menyeberangi pulau aneh ini."
+
+#: data/levels/alien/aliens1-grumbel.pingus:5
+#: data/levels/alien/aliens1-phil.pingus:7
+msgid "Escape from Aliens"
+msgstr "Melarikan diri dari Alien"
+
+#: data/levels/alien/aliens1-grumbel.pingus:6
+msgid ""
+"Aliens invade our starship blocking intrance to the teleporter. Your crew is "
+"well trained, like you they don't panic."
+msgstr ""
+"Aliens menyerbu kapal luar angkasa kita dan menghalangi akses ke teleporter. "
+"Kru terlatih dengan baik, seperti mu, mereka tidak panik."
+
+#: data/levels/alien/aliens1-phil.pingus:8
+msgid ""
+"Aliens invade our starship blocking entrance to the teleporter. Your crew is "
+"well trained, like you they don't panic."
+msgstr ""
+"Aliens menyerbu kapal luar angkasa kita dan menghalangi akses ke teleporter. "
+"Kru Anda terlatih dengan baik, seperti Anda, mereka tidak panik."
+
+#: data/levels/alien/aliens2-phil.pingus:7
+msgid "Escape from Aliens 2"
+msgstr "Escape from Aliens 2"
+
+#: data/levels/alien/aliens2-phil.pingus:8
+msgid "Aliens are now closest making your escape harder. You must dig it up."
+msgstr ""
+"Makhluk asing kini semakin dekat, membuat pelarianmu semakin sulit. Kamu "
+"harus menggali tempat itu."
+
+#: data/levels/alien/aliens4-phil.pingus:5
+msgid "Alien's nest"
+msgstr "Sarang alien"
+
+#: data/levels/alien/aliens4-phil.pingus:6
+msgid "Pingus invade the nest. Take care of jaws. What's the matrix above?"
+msgstr ""
+"Pingus menyerbu sarang. Hati-hati dengan rahang. Apa itu matriks di atas?"
+
+#: data/levels/alien/aliens5-phil.pingus:5
+msgid "Matrix of the death"
+msgstr "Matriks Kematian"
+
+#: data/levels/alien/aliens5-phil.pingus:6
+msgid ""
+"Take a piece of paper. Now pingus have to enter the matrix of the death. "
+"This is a maze, bad ways are protect by jaws."
+msgstr ""
+"Ambil selembar kertas. Sekarang pingus harus masuk ke dalam matriks "
+"kematian. Ini adalah labirin, jalan-jalan berbahaya dilindungi oleh rahang."
+
+#: data/levels/alien/aliens6-phil.pingus:7
+msgid "Spy's pingus in the matrix of the death"
+msgstr "Pingus mata-mata dalam matriks kematian"
+
+#: data/levels/alien/aliens6-phil.pingus:8
+msgid ""
+"Spy's pingus have marked the location of jaws in the matrix of the death. "
+"Many died to gain that information :..( Perhaps this help. Perhaps..."
+msgstr ""
+"Pingus mata-mata telah menandai lokasi rahang dalam matriks kematian. Banyak "
+"yang tewas untuk mendapatkan informasi itu :..( Mungkin ini membantu. "
+"Mungkin..."
+
+#: data/levels/alien/aliens7-phil.pingus:7
+msgid "Fourth dimension"
+msgstr "Dimensi keempat"
+
+#: data/levels/alien/aliens7-phil.pingus:8
+msgid ""
+"The defenses of the aliens get stronger. Now you have to jump in the fourth "
+"dimension to win!"
+msgstr ""
+"Pertahanan alien semakin kuat. Sekarang kamu harus melompat ke dimensi "
+"keempat untuk menang!"
+
+#: data/levels/alien/space-11-rz+eriksoe.pingus:5
+msgid "Set your watches"
+msgstr "Atur jam tangan mu."
+
+#: data/levels/alien/space-11-rz+eriksoe.pingus:6
+msgid "Cooperation in space."
+msgstr "Kerja sama di bidang antariksa."
+
+#: data/levels/alien/space-9-tom.pingus:5
+msgid "Outside In"
+msgstr "Dari Luar ke Dalam"
+
+#: data/levels/alien/space-9-tom.pingus:6
+msgid "Can you help the pingus escape without getting their flippers wet?"
+msgstr ""
+"Bisakah kamu membantu pingus melarikan diri tanpa membuat sirip mereka basah?"
+
+#: data/levels/alien/space-loop-timpany.pingus:5
+msgid "Endless Loop"
+msgstr "Lingkaran Tak Berujung"
+
+#: data/levels/alien/space-loop-timpany.pingus:6
+msgid ""
+"To the right and to the left the Pingus will face certain death and you have "
+"to save 50. Can you help them get out of this mess?"
+msgstr ""
+"Kanan dan kiri, Pingus akan menghadapi kematian pasti, dan kamu harus "
+"menyelamatkan 50 di antaranya. Bisakah kamu membantu mereka keluar dari "
+"situasi ini?"
+
+#: data/levels/alien/space-tom1.pingus:7
+msgid "Up up in the space"
+msgstr "Naik, naik ke angkasa"
+
+#: data/levels/alien/space-tom1.pingus:8
+msgid "What good is a pick in space? Certainly not to go to the stars."
+msgstr ""
+"Untuk apa gunanya sebuah alat penggal di ruang angkasa? Tentu saja bukan "
+"untuk pergi ke bintang-bintang."
+
+#: data/levels/alien/space2.pingus:5
+msgid "Lost in Space"
+msgstr "Tersesat di Luar Angkasa"
+
+#: data/levels/alien/space2.pingus:6
+msgid "We don't know where we are but we don't leave anybody behind."
+msgstr ""
+"Kami tidak tahu di mana kami berada, tetapi kami tidak akan meninggalkan "
+"siapa pun di belakang."
+
+#: data/levels/factorycampaign/factory_campaign1.pingus:5
+msgid "Falling down"
+msgstr "Jatuh"
+
+#: data/levels/factorycampaign/factory_campaign1.pingus:6
+msgid ""
+"Pingus intelligence reported that a huge factory located in the subtropical "
+"zone might be a reason of a climate change. They decided to go there and "
+"shut down the factories. This will be a long and dangerous expedition. "
+"Pingus and you will have to face many difficulties on your way. As the ice "
+"is melting, at first you have to build some bridges and watch out for the "
+"cliff."
+msgstr ""
+"Laporan intelijen Pingus menyebutkan bahwa pabrik besar yang terletak di "
+"zona subtropis mungkin menjadi penyebab perubahan iklim. Mereka memutuskan "
+"untuk pergi ke sana dan menutup pabrik-pabrik tersebut. Ini akan menjadi "
+"ekspedisi yang panjang dan berbahaya. Pingus harus menghadapi banyak "
+"kesulitan di sepanjang perjalanan. Seiring mencairnya es, pertama-tama Kamu "
+"harus membangun jembatan-jembatan dan waspada terhadap tebing."
+
+#: data/levels/factorycampaign/factory_campaign10.pingus:5
+msgid "Jump"
+msgstr "Lompat"
+
+#: data/levels/factorycampaign/factory_campaign10.pingus:6
+msgid ""
+"All Pingus need is to jump.... Hint: While pausing (press P key) you still "
+"can control Pingus. "
+msgstr ""
+"Yang dibutuhkan Pingus hanyalah melompat.... Petunjuk: Saat pause (tekan "
+"tombol P), Anda masih dapat mengendalikan Pingus. "
+
+#: data/levels/factorycampaign/factory_campaign11.pingus:5
+msgid "Factory"
+msgstr "Pabrik"
+
+#: data/levels/factorycampaign/factory_campaign11.pingus:6
+msgid ""
+"Finally you reached the factory. Watch out as there are many dangers. Use "
+"bombers to destroy the basement of the factory. Good luck!"
+msgstr ""
+"Akhirnya kamu sampai di pabrik. Hati-hati, karena ada banyak bahaya di sana. "
+"Gunakan pesawat tempur untuk menghancurkan basement pabrik. Semoga sukses!"
+
+#: data/levels/factorycampaign/factory_campaign12.pingus:5
+msgid "Going back home"
+msgstr "Kembali ke rumah"
+
+#: data/levels/factorycampaign/factory_campaign12.pingus:6
+msgid "Your mission is over. Pingus can go back home, but be careful!"
+msgstr "Misi telah selesai. Pingus bisa pulang ke rumah, tapi hati-hati!"
+
+#: data/levels/factorycampaign/factory_campaign13.pingus:5
+msgid "Bonus track"
+msgstr "Bonus lagu"
+
+#: data/levels/factorycampaign/factory_campaign13.pingus:6
+msgid ""
+"Pingus are at home, but after the climate change living on the South Pole "
+"became more dangerous. There is one more mission for you."
+msgstr ""
+"Pingus berada di rumah, tetapi setelah perubahan iklim, hidup di Kutub "
+"Selatan menjadi lebih berbahaya. Ada satu misi lagi untukmu."
+
+#: data/levels/factorycampaign/factory_campaign2.pingus:5
+msgid "Destination North"
+msgstr "Tujuan Utara"
+
+#: data/levels/factorycampaign/factory_campaign2.pingus:6
+msgid ""
+"For now, Pingus are leaving South Pole and moving North. You have to help "
+"them!"
+msgstr ""
+"Saat ini, Pingus sedang meninggalkan Kutub Selatan dan berpindah ke Utara. "
+"Kamu harus membantu mereka!"
+
+#: data/levels/factorycampaign/factory_campaign3.pingus:5
+msgid "The Cave"
+msgstr "Gua"
+
+#: data/levels/factorycampaign/factory_campaign3.pingus:6
+msgid ""
+"Pingus on their way came across a huge cave. You have to lead them through. "
+"Remember that sometimes there is more than one way out. Hint: To 'unlock' "
+"blockers you can use bashers and jumpers."
+msgstr ""
+"Pingus dalam perjalanan mereka menemukan sebuah gua besar. Kamu harus "
+"memandu mereka melewatinya. Ingatlah bahwa terkadang ada lebih dari satu "
+"jalan keluar. Petunjuk: Untuk ‘membuka’ penghalang, kamu bisa menggunakan "
+"bashers dan jumpers."
+
+#: data/levels/factorycampaign/factory_campaign4.pingus:5
+msgid "Difficulties on the way"
+msgstr "Kendala di sepanjang perjalanan"
+
+#: data/levels/factorycampaign/factory_campaign4.pingus:6
+msgid ""
+"It looks you have encountered serious difficulties. But don't panic, Pingus "
+"are waiting for your orders, they count on you so don't fail! Hint: Miners, "
+"diggers and bashers are very important here!"
+msgstr ""
+"Sepertinya Kamu menghadapi kesulitan yang serius. Tapi santai saja, Pingus "
+"sedang menunggu perintah mu, mereka mengandalkan mu jadi jangan sampai "
+"gagal! Petunjuk: Penambang, penggali, dan pemukul sangat penting di sini!"
+
+#: data/levels/factorycampaign/factory_campaign5.pingus:5
+msgid "Four ways out"
+msgstr "Empat cara untuk keluar"
+
+#: data/levels/factorycampaign/factory_campaign5.pingus:6
+msgid ""
+"It's getting warmer but Pingus are bravely moving North. This time it will "
+"be much easier. There are at least four ways out. Could you find them?"
+msgstr ""
+"Cuaca semakin hangat, tetapi Pingus tetap berani bergerak ke utara. Kali ini "
+"akan jauh lebih mudah. Ada setidaknya empat jalan keluar. Bisakah kamu "
+"menemukannya?"
+
+#: data/levels/factorycampaign/factory_campaign6.pingus:5
+msgid "Egypt - So easy"
+msgstr ""
+
+#: data/levels/factorycampaign/factory_campaign6.pingus:6
+msgid "Pingus reached Egypt. Looks easy, but is it really so easy? Try it out."
+msgstr ""
+"Pingus tiba di Mesir. Kelihatannya mudah, tapi benarkah sesederhana itu? "
+"Coba saja."
+
+#: data/levels/factorycampaign/factory_campaign7.pingus:5
+msgid "Egypt - Oasis"
+msgstr ""
+
+#: data/levels/factorycampaign/factory_campaign7.pingus:6
+msgid ""
+"Last time it was easy. Now it will be a little bit harder. Pingus are "
+"entering oasis. Watch out for the water."
+msgstr ""
+"Terakhir kali itu mudah. Sekarang akan sedikit lebih sulit. Pingus sedang "
+"memasuki oasis. Hati-hati dengan airnya."
+
+#: data/levels/factorycampaign/factory_campaign8.pingus:5
+msgid "Egypt - The Maze"
+msgstr "Egypt - Labirin"
+
+#: data/levels/factorycampaign/factory_campaign8.pingus:6
+msgid ""
+"You came across a maze. Can you find the way out? Think twice before digging."
+msgstr ""
+"Kamu menemukan sebuah labirin. Bisakah kamu menemukan jalan keluarnya? "
+"Pikirkan dua kali sebelum menggali."
+
+#: data/levels/factorycampaign/factory_campaign9.pingus:5
+msgid "Egypt - Pyramids"
+msgstr ""
+
+#: data/levels/factorycampaign/factory_campaign9.pingus:6
+msgid ""
+"The maze led you to the big pyramids. Now you have 4 minutes to escape. "
+"Hurry up!"
+msgstr ""
+"Labirin itu membawa mu ke piramida-piramida besar. Sekarang Anda memiliki 4 "
+"menit untuk melarikan diri. Ayo cepat!"
+
+#: data/levels/xmas2011/xmas01-grumbel.pingus:5
+msgid "Bomb and Double Catch"
+msgstr ""
+
+#: data/levels/xmas2011/xmas01-grumbel.pingus:6
+msgid ""
+"Here you might have some time to relax. The path isn't complicated and a bit "
+"of bombing and catching of Pingus should bring you to the end without much "
+"trouble, but don't relax to much, your resources are limited, so be careful "
+"when using them."
+msgstr ""
+"Di sini mungkin memiliki sedikit waktu untuk bersantai. Jalurnya tidak "
+"terlalu rumit, dan dengan sedikit pengeboman dan menangkap Pingus, Anda "
+"seharusnya bisa sampai ke akhir tanpa banyak kesulitan. Namun, jangan "
+"terlalu santai, karena sumber daya mu terbatas, jadi gunakanlah dengan hati-"
+"hati."
+
+#: data/levels/xmas2011/xmas02-grumbel.pingus:5
+msgid "Up, Up and Away"
+msgstr "Naik, Naik, dan Pergi"
+
+#: data/levels/xmas2011/xmas02-grumbel.pingus:6
+msgid ""
+"The exit is in a weird spot here, straight above. A bridge won't get you "
+"there, but your toolset allows an alternative way. Can you figure it out?"
+msgstr ""
+"Keluarannya ada di tempat yang aneh di sini, tepat di atas. Jembatan tidak "
+"akan membawa ke sana, tetapi alat-alat Kamu memungkinkan cara alternatif."
+
+#: data/levels/xmas2011/xmas03-grumbel.pingus:5
+msgid "If only penguins could fly"
+msgstr "Andai saja penguin bisa terbang"
+
+#: data/levels/xmas2011/xmas03-grumbel.pingus:6
+msgid ""
+"Bridges are kind of rare around here, so don't waste any. That aside, you "
+"shouldn't have to much trouble here, everything to do here you should have "
+"learned, but you might have to use all that knowledge at once."
+msgstr ""
+"Jembatan di sini cukup langka, jadi jangan sia-siakan. Terlepas dari itu, "
+"kamu seharusnya tidak akan mengalami banyak kesulitan di sini. Semua hal "
+"yang perlu dilakukan di sini seharusnya sudah kamu pelajari, tapi mungkin "
+"kamu harus menggunakan semua pengetahuan itu sekaligus."
+
+#: data/levels/xmas2011/xmas04-grumbel.pingus:5
+msgid "Stairway to Heaven"
+msgstr "Tangga Menuju Surga"
+
+#: data/levels/xmas2011/xmas04-grumbel.pingus:6
+msgid ""
+"Here things start to get a little complicated. Getting up to the exit is "
+"hard enough with a single Pingu, but with all of them? Impossible! But wait, "
+"who says they have to come the same way?"
+msgstr ""
+"Di sini mulai sedikit rumit. Naik ke pintu keluar saja sudah sulit dengan "
+"satu Pingu, apalagi dengan semuanya? Mustahil! Tapi tunggu, siapa bilang "
+"mereka harus datang dengan cara yang sama?"
+
+#: data/levels/xmas2011/xmas05-grumbel.pingus:5
+msgid "Misdirection Everywhere"
+msgstr "Pengalihan Perhatian di Mana-Mana"
+
+#: data/levels/xmas2011/xmas05-grumbel.pingus:6
+msgid ""
+"The last level for this Xmas. Looks a little complicated, right? Don't worry "
+"with all you have learned so far, you should be able to even solve this.\n"
+"\n"
+"Good Luck & a Merry Xmas 2011"
+msgstr ""
+"Level terakhir untuk Natal ini. Terlihat sedikit rumit, ya? Jangan khawatir, "
+"dengan semua yang sudah kamu pelajari sejauh ini, kamu seharusnya bisa "
+"menyelesaikan ini.\n"
+"\n"
+"Good Luck & Merry Christmas 2011"
+
+#: data/levels/xmas2011/xmas06-grumbel.pingus:5
+msgid "The Big Jump"
+msgstr "Lompatan Besar"
+
+#: data/levels/xmas2011/xmas06-grumbel.pingus:6
+msgid ""
+"Going in and out of the abyss with all Pingus isn't an option here, but a "
+"small group preparing the path or the others should get you across."
+msgstr ""
+"Masuk dan keluar dari jurang bersama semua Pingus bukanlah pilihan di sini, "
+"tetapi sekelompok kecil yang mempersiapkan jalan atau yang lain seharusnya "
+"dapat membantu Anda menyeberang."
+
+#: data/levels/xmas2011/xmas07-grumbel.pingus:5
+msgid "No Way to Stop"
+msgstr "Tidak Ada Cara untuk berhenti"
+
+#: data/levels/xmas2011/xmas07-grumbel.pingus:6
+msgid ""
+"Here you don't have much time to waste. The path to the exit is clear and "
+"straight, but you don't have the time to prepare it. Can you find a way to "
+"leap ahead?"
+msgstr ""
+"Di sini, Kamu tidak punya banyak waktu untuk membuang-buang. Jalan menuju "
+"keluar jelas dan lurus, tetapi Kamu tidak punya waktu untuk "
+"mempersiapkannya. Bisakah menemukan cara untuk melompat ke depan?"
+
+#: data/levels/xmas2011/xmas08-grumbel.pingus:5
+msgid "Ice Block Blockage"
+msgstr "Sumbatan Blok Es"
+
+#: data/levels/xmas2011/xmas08-grumbel.pingus:6
+msgid ""
+"What's this? A gigantic ice block straight in the path? Where did that come "
+"from? No time wondering about things like that. The Pingus need to get to "
+"the exist and it's your job to find a way around the block."
+msgstr ""
+"Apa ini? Sebuah blok es raksasa tepat di tengah jalan? Dari mana asalnya? "
+"Tidak ada waktu untuk memikirkan hal-hal seperti itu. Pingus harus sampai ke "
+"pintu keluar, dan tugasmu adalah menemukan cara untuk mengelilingi blok es "
+"itu."
+
+#: data/levels/xmas2011/xmas09-grumbel.pingus:5
+msgid "The Impossible Bridge"
+msgstr "Jembatan yang Mustahil"
+
+#: data/levels/xmas2011/xmas09-grumbel.pingus:6
+msgid ""
+"Two groups of Pingus separated by a deep byss, joining them by a bridge "
+"seems impossible, but wise coordination of the two groups and a brave leap "
+"should let you make it to the exit."
+msgstr ""
+"Dua kelompok Pingus yang dipisahkan oleh jurang dalam, menghubungkan "
+"keduanya dengan jembatan tampaknya mustahil, tetapi koordinasi yang bijak "
+"antara kedua kelompok dan lompatan berani seharusnya mencapai pintu keld"
+
+#: data/levels/xmas2011/xmas10-grumbel.pingus:5
+msgid "Spiraling Away"
+msgstr "Menjauh dalam spiral"
+
+#: data/levels/xmas2011/xmas10-grumbel.pingus:6
+msgid ""
+"The exit is straight below, but the path is blocked by solid steal with no "
+"way through. But the Pingus have a versatile toolset at hand, can you use it "
+"to find a way around and make it to the exit?"
+msgstr ""
+"Keluarannya ada tepat di bawah, tetapi jalurnya diblokir oleh baja solid "
+"yang tidak bisa dilewati. Namun, Pingus memiliki perlengkapan yang "
+"serbaguna, bisakah kamu menggunakannya untuk menemukan jalan alternatif dan "
+"sampai ke keluarannya?"
+
+#: data/worldmaps/tutorial.worldmap:4
+msgid "Tutorial Island"
+msgstr ""
+
+#: data/worldmaps/tutorial.worldmap:6
+msgid "Learn the basics"
+msgstr "Pelajari dasar-dasarnya"
+
+#: data/worldmaps/tutorial.worldmap:124
+msgid "Watch Ending"
+msgstr ""
+
+#: data/worldmaps/tutorial.worldmap:131
+msgid "Watch Intro"
+msgstr ""
+
+#: data/stories/tutorial_intro.story:2
+msgid "The Journey Begins"
+msgstr "Perjalanan Dimulai"
+
+#: data/stories/tutorial_intro.story:9
+msgid ""
+"For a long time, the Pingus have lived happily in peace on the South Pole "
+"along with all the other animals. Everything was in balance and it seemed "
+"like nothing could disrupt their peace.  The Pingus were happy and it seemed "
+"like this could never end."
+msgstr ""
+"Selama bertahun-tahun, Pingus hidup bahagia dan damai di Kutub Selatan "
+"bersama semua hewan lainnya. Segala sesuatunya seimbang dan sepertinya tidak "
+"ada yang bisa mengganggu kedamaian mereka.  Pingus merasa bahagia dan "
+"sepertinya kebahagiaan ini tidak akan pernah berakhir."
+
+#: data/stories/tutorial_intro.story:17
+msgid ""
+"But then one day, things began to change slowly: the sky got darker and the "
+"earth got warmer. Firstly, they thought this was just a normal fluctuation "
+"in the world's climate, but things seemed to get worse and worse with every "
+"year."
+msgstr ""
+"Namun, suatu hari, perlahan-lahan segala sesuatu mulai berubah: langit "
+"menjadi lebih gelap dan bumi menjadi lebih hangat. Awalnya, mereka mengira "
+"ini hanyalah fluktuasi normal dalam iklim dunia, tetapi seiring berjalannya "
+"waktu, keadaan tampaknya semakin memburuk setiap tahunnya."
+
+#: data/stories/tutorial_intro.story:25
+msgid ""
+"The snow began to melt away in a few areas and food became an issue. Other "
+"animals tried to leave the region to search for colder areas, but the Pingus "
+"knew that this wouldn't help: they knew that they had to do something about "
+"it."
+msgstr ""
+"Salju mulai mencair di beberapa daerah dan makanan menjadi masalah. Hewan-"
+"hewan lain mencoba meninggalkan wilayah tersebut untuk mencari daerah yang "
+"lebih dingin, tetapi Pingus tahu bahwa hal itu tidak akan membantu: mereka "
+"tahu bahwa mereka harus melakukan sesuatu tentang hal itu."
+
+#: data/stories/tutorial_intro.story:33
+msgid ""
+"So the circle of the eldest came together to decide what to do about it. "
+"They decided to send out an expedition around the world to find the cause of "
+"this warming. The expedition consisted of hundreds of the bravest Pingus on "
+"the South Pole."
+msgstr ""
+"Jadi, para tetua berkumpul untuk memutuskan apa yang harus dilakukan. Mereka "
+"memutuskan untuk mengirimkan ekspedisi keliling dunia untuk mencari penyebab "
+"pemanasan ini. Ekspedisi tersebut terdiri dari ratusan Pingus terberani di "
+"Kutub Selatan."
+
+#: data/stories/tutorial_intro.story:41
+msgid ""
+"And they picked you to lead them on their journey around the world. Since "
+"the journey will be dangerous and difficult, your first goal is the Island "
+"of Mogorok, also known as the Tutorial Island. According to the eldest, this "
+"island has always been the first stop of Pingus that were sent out into the "
+"world."
+msgstr ""
+"Dan mereka memilihmu untuk memimpin mereka dalam perjalanan keliling dunia. "
+"Karena perjalanan ini akan berbahaya dan sulit, tujuan pertamamu adalah "
+"Pulau Mogorok, yang juga dikenal sebagai Pulau Tutorial. Menurut yang "
+"tertua, pulau ini selalu menjadi pemberhentian pertama bagi Pingus yang "
+"dikirim ke seluruh dunia."
+
+#: data/stories/tutorial_intro.story:50
+msgid ""
+"The island consists of many areas that are ideal to teach the Pingus their "
+"abilities. The Pingus can learn to build bridges, climb, bash and use many "
+"other talents which they will need on their long and dangerous journey."
+msgstr ""
+"Pulau ini terdiri dari banyak area yang ideal untuk mengajarkan kemampuan "
+"kepada Pingus. Pingus dapat belajar membangun jembatan, memanjat, "
+"menghancurkan, dan menggunakan banyak kemampuan lain yang akan mereka "
+"butuhkan dalam perjalanan panjang dan berbahaya mereka."
+
+#: data/stories/tutorial_intro.story:57
+msgid ""
+"While there, you can practice your abilities in commanding and guiding the "
+"Pingus. You can also get familiar with all the abilities the Pingus provide "
+"and learn to master them, since you will need all of them on your journey "
+"around the world."
+msgstr ""
+"Selama berada di sana, Anda dapat melatih kemampuan Anda dalam mengendalikan "
+"dan mengarahkan Pingus. Anda juga dapat mengenal semua kemampuan yang "
+"dimiliki Pingus dan belajar menguasainya, karena Anda akan membutuhkannya "
+"selama perjalanan Anda keliling dunia."
+
+#: data/stories/tutorial_intro.story:65
+msgid ""
+"Now that you and the Pingus have arrived at Tutorial Island it is time to "
+"take command and begin your mission.\n"
+"\n"
+"Good Luck!"
+msgstr ""
+"Sekarang setelah Anda dan Pingus tiba di Pulau Tutorial, saatnya untuk "
+"mengambil alih komando dan memulai misi Anda.\n"
+"\n"
+"Good Luck!"
+
+#: data/stories/tutorial_outro.story:2
+msgid "The Journey Continues"
+msgstr "Perjalanan Berlanjut"
+
+#: data/stories/tutorial_outro.story:9
+msgid ""
+"Now after you and the Pingus have learned the basics and practiced a bit it "
+"is time to move on and begin the journey into the world. Since the ice floe "
+"with which the Pingus traveled to the Tutorial Island isn't going to hold on "
+"the whole way into the warmer climates the Pingus have to find something "
+"else to guide them on their journey."
+msgstr ""
+"Sekarang setelah kamu dan Pingus telah mempelajari dasar-dasarnya dan "
+"berlatih sebentar, saatnya untuk melanjutkan dan memulai perjalanan ke "
+"dunia. Karena bongkahan es yang digunakan Pingus untuk bepergian ke Pulau "
+"Tutorial tidak akan bertahan sepanjang perjalanan ke iklim yang lebih "
+"hangat, Pingus harus mencari sesuatu yang lain untuk memandu mereka dalam "
+"perjalanan mereka."
+
+#: data/stories/tutorial_outro.story:18
+msgid ""
+"But as the eldest have said, the Tutorial Island provides not only a good "
+"way to practice, but it is also the starting point into the world. After "
+"some searching the Pingus discovered the meaning of this, and they found the "
+"large tree at the end of the island which gave them wood to construct a "
+"float."
+msgstr ""
+"Namun, seperti yang telah dikatakan oleh yang tertua, Pulau Tutorial tidak "
+"hanya menyediakan cara yang baik untuk berlatih, tetapi juga merupakan titik "
+"awal untuk memasuki dunia. Setelah melakukan pencarian, Pingus menemukan "
+"makna dari hal ini, dan mereka menemukan pohon besar di ujung pulau yang "
+"memberikan kayu untuk membangun rakit."
+
+#: data/stories/tutorial_outro.story:27
+msgid ""
+"So the Pingus set out and constructed some large rafts, enough to carry them "
+"all. After also packing a bunch of provisions they were prepared to start "
+"their journey and leave their familiar ground and enter the unknown parts of "
+"the world."
+msgstr ""
+"Jadi, para Pingus berangkat dan membangun beberapa rakit besar, cukup untuk "
+"membawa mereka semua. Setelah juga mengemas sejumlah persediaan, mereka siap "
+"untuk memulai perjalanan mereka dan meninggalkan tanah yang mereka kenal "
+"untuk memasuki bagian-bagian dunia yang belum dikenal."
+
+#: data/stories/tutorial_outro.story:35
+msgid ""
+"So the Pingus sit on their raft, worrying about what's to come and where to "
+"go, while floating into the sunset.\n"
+"\n"
+"To be continued..."
+msgstr ""
+"Jadi, Pingus duduk di rakit mereka, cemas memikirkan apa yang akan terjadi "
+"dan ke mana harus pergi, sambil mengapung menuju matahari terbenam.\n"
+"\n"
+"Bersambung..."
+
+#: data/levelsets/alien.levelset:3
+msgid "Alien by Josh Dye"
+msgstr ""
+
+#: data/levelsets/alien.levelset:4
+msgid "Escape from alien"
+msgstr "Melarikan diri dari alien"
+
+#: data/levelsets/crystal.levelset:3
+msgid "Crystal"
+msgstr ""
+
+#: data/levelsets/crystal.levelset:4
+msgid "Crystaline sparkling full of danger"
+msgstr "Crystal berkilau penuh bahaya"
+
+#: data/levelsets/desert.levelset:3
+msgid "Desert"
+msgstr "Gurun"
+
+#: data/levelsets/desert.levelset:4
+msgid "Getting hot outside..."
+msgstr "Cuaca di luar semakin panas..."
+
+#: data/levelsets/factory.levelset:3
+msgid "Factory Campaign"
+msgstr "Kampanye Pabrik"
+
+#: data/levelsets/factory.levelset:4
+msgid "Pingus expedition"
+msgstr "Ekspedisi Pingus"
+
+#: data/levelsets/halloween.levelset:3
+msgid "Halloween 2007"
+msgstr ""
+
+#: data/levelsets/halloween.levelset:4
+msgid "Trapped at All Hallows Eve"
+msgstr "Terjebak pada Malam Halloween"
+
+#: data/levelsets/halloween2011.levelset:2
+msgid "Halloween 2011"
+msgstr ""
+
+#: data/levelsets/halloween2011.levelset:3
+msgid "Going Underground"
+msgstr "Menuju Bawah Tanah"
+
+#: data/levelsets/hellmouth.levelset:3
+msgid "Hellmouth"
+msgstr "Mulut Neraka"
+
+#: data/levelsets/hellmouth.levelset:4
+msgid "A cave full of slime..."
+msgstr "Gua yang dipenuhi lendir..."
+
+#: data/levelsets/jungle.levelset:3
+msgid "Jungle"
+msgstr "Hutan"
+
+#: data/levelsets/mysteryisland.levelset:3
+msgid "Island of Mystery"
+msgstr "Island of Mystery"
+
+#: data/levelsets/mysteryisland.levelset:4
+msgid "Marooned on an Uncharted Isle [by Lachlan McCubbin]"
+msgstr "Terdampar di Pulau yang tak diketahui [oleh Lachlan McCubbin]"
+
+#: data/levelsets/pacman.levelset:3
+msgid "Pac-Man"
+msgstr ""
+
+#: data/levelsets/pacman.levelset:4
+msgid "Trapped in a video game"
+msgstr "Terjebak dalam permainan video"
+
+#: data/levelsets/xmas2011.levelset:3
+msgid "Xmas 2011"
+msgstr ""
+
+#: data/levelsets/xmas2011.levelset:4
+msgid "Merry Christmas and a Happy New Year"
+msgstr "Selamat Natal dan Tahun Baru!"
