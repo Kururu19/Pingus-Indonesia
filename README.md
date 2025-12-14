@@ -1,10 +1,6 @@
-# 🇮🇩 Pingus – Bahasa Indonesia
-
 Indonesian Translate for **Pingus**.
 
 ## 📌 Informasi (Bahasa Indonesia)
-
-### 🇮🇩 Versi Bahasa Indonesia
 
 **Game**: Pingus
 **Bahasa**: Indonesia (id)
@@ -145,5 +141,6 @@ This translation is created for educational and community purposes.
 All game rights belong to the original **Pingus** developers.
 
 ---
+
 
 ⭐ If you find this useful, feel free to give a star or feedback!
